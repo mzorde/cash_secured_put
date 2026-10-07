@@ -1,0 +1,54 @@
+name: Daily Stock Screener
+
+on:
+  # Run on weekdays after the US market close.
+  # 22:30 UTC == 6:30pm EDT / 5:30pm EST.
+  schedule:
+    - cron: "30 22 * * 1-5"
+  # Allow manual runs from the Actions tab.
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-screener
+  cancel-in-progress: false
+
+jobs:
+  screen:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Screen Nasdaq-100 list
+        run: python screen.py -f nasdaq100_list -s nasdaq_100
+
+      - name: Screen S&P 500 list
+        run: python screen.py -f sp500_list -s sp_500
+
+      - name: Commit and push reports
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add reports/
+          if git diff --cached --quiet; then
+            echo "No report changes to commit."
+          else
+            git commit -m "Daily screener reports $(date -u +%Y-%m-%d)"
+            git push
+          fi
