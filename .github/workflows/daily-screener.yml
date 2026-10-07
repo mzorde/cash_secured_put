@@ -35,6 +35,14 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: Refresh Nasdaq-100 list
+        continue-on-error: true
+        run: python fetch_nasdaq100.py nasdaq100_list
+
+      - name: Refresh S&P 500 list
+        continue-on-error: true
+        run: python fetch_sp500.py sp500_list
+
       - name: Screen Nasdaq-100 list
         run: python screen.py -f nasdaq100_list -s nasdaq_100
 
@@ -45,9 +53,9 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add reports/
+          git add reports/ nasdaq100_list sp500_list
           if git diff --cached --quiet; then
-            echo "No report changes to commit."
+            echo "Nothing to commit."
           else
             git commit -m "Daily screener reports $(date -u +%Y-%m-%d)"
             git push
