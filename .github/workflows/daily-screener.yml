@@ -49,11 +49,14 @@ jobs:
       - name: Screen S&P 500 list
         run: python screen.py -f sp500_list -s sp_500
 
+      - name: Rebuild UI data
+        run: python ui/build_data.py
+
       - name: Commit and push reports
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add reports/ nasdaq100_list sp500_list
+          git add reports/ nasdaq100_list sp500_list ui/data.js
           if git diff --cached --quiet; then
             echo "Nothing to commit."
           else
