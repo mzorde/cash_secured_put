@@ -1,26 +1,26 @@
 Daily Stock Screener - run 2026-10-08
 Candidates scanned: 503
-Qualifying tickers: 22
-Reported (capped at 20): 20  (omitted 2)
+Qualifying tickers: 23
+Reported (capped at 20): 20  (omitted 3)
 
 Ranked by premium yield (descending):
-   1. RDDT   yield= 4.57%  strike=140.0  prem=6.40  delta=-0.293  exp=2026-11-06  appr=116%  pe=35.5
-   2. COHR   yield= 4.20%  strike=305.0  prem=12.80  delta=-0.291  exp=2026-11-06  appr=242%  pe=81.2
-   3. KLAC   yield= 4.11%  strike=185.0  prem=7.60  delta=-0.320  exp=2026-11-06  appr=155%  pe=53.8
-   4. TER    yield= 4.08%  strike=380.0  prem=15.50  delta=-0.306  exp=2026-11-06  appr=220%  pe=56.6
-   5. HUM    yield= 4.03%  strike=365.0  prem=14.70  delta=-0.296  exp=2026-11-06  appr=67%  pe=37.5
-   6. SNDK   yield= 3.95%  strike=1570.0  prem=62.00  delta=-0.298  exp=2026-11-06  appr=4601%  pe=22.9
-   7. LRCX   yield= 3.82%  strike=310.0  prem=11.85  delta=-0.316  exp=2026-11-06  appr=313%  pe=57.2
-   8. VRT    yield= 3.80%  strike=230.0  prem=8.75  delta=-0.305  exp=2026-11-06  appr=131%  pe=55.8
-   9. WDC    yield= 3.77%  strike=375.0  prem=14.15  delta=-0.293  exp=2026-11-06  appr=715%  pe=15.1
-  10. ON     yield= 3.77%  strike=77.0  prem=2.90  delta=-0.306  exp=2026-11-06  appr=17%  pe=53.2
-  11. HPE    yield= 3.62%  strike=68.0  prem=2.46  delta=-0.329  exp=2026-11-06  appr=259%  pe=37.2
-  12. MRVL   yield= 3.55%  strike=265.0  prem=9.40  delta=-0.294  exp=2026-11-06  appr=292%  pe=93.6
-  13. DELL   yield= 3.37%  strike=540.0  prem=18.20  delta=-0.295  exp=2026-11-06  appr=390%  pe=33.7
-  14. GLW    yield= 3.33%  strike=150.0  prem=5.00  delta=-0.271  exp=2026-11-06  appr=277%  pe=74.9
-  15. AMAT   yield= 3.19%  strike=490.0  prem=15.65  delta=-0.306  exp=2026-11-06  appr=163%  pe=44.9
-  16. ANET   yield= 3.15%  strike=200.0  prem=6.30  delta=-0.278  exp=2026-11-06  appr=116%  pe=68.1
-  17. VLO    yield= 2.90%  strike=400.0  prem=11.60  delta=-0.312  exp=2026-11-06  appr=228%  pe=17.7
-  18. MU     yield= 2.88%  strike=1025.0  prem=29.50  delta=-0.298  exp=2026-11-06  appr=967%  pe=14.6
-  19. GNRC   yield= 2.80%  strike=200.0  prem=5.60  delta=-0.249  exp=2026-11-06  appr=29%  pe=50.9
-  20. FTNT   yield= 2.74%  strike=175.0  prem=4.80  delta=-0.285  exp=2026-11-06  appr=143%  pe=66.9
+   1. RDDT   yield= 4.57%  strike=140.0  prem=6.40  delta=-0.293  exp=2026-11-06  appr=116%  pe=34.6
+   2. TWLO   yield= 4.48%  strike=250.0  prem=11.20  delta=-0.297  exp=2026-11-06  appr=303%  pe=37.8
+   3. COHR   yield= 4.20%  strike=305.0  prem=12.80  delta=-0.291  exp=2026-11-06  appr=242%  pe=82.2
+   4. KLAC   yield= 4.11%  strike=185.0  prem=7.60  delta=-0.320  exp=2026-11-06  appr=155%  pe=53.9
+   5. TER    yield= 4.08%  strike=380.0  prem=15.50  delta=-0.306  exp=2026-11-06  appr=220%  pe=59.1
+   6. HUM    yield= 4.03%  strike=365.0  prem=14.70  delta=-0.296  exp=2026-11-06  appr=67%  pe=37.5
+   7. SNDK   yield= 3.95%  strike=1570.0  prem=62.00  delta=-0.298  exp=2026-11-06  appr=4601%  pe=22.5
+   8. LRCX   yield= 3.82%  strike=310.0  prem=11.85  delta=-0.316  exp=2026-11-06  appr=313%  pe=57.2
+   9. VRT    yield= 3.80%  strike=230.0  prem=8.75  delta=-0.305  exp=2026-11-06  appr=131%  pe=55.8
+  10. WDC    yield= 3.77%  strike=375.0  prem=14.15  delta=-0.293  exp=2026-11-06  appr=715%  pe=15.3
+  11. ON     yield= 3.77%  strike=77.0  prem=2.90  delta=-0.306  exp=2026-11-06  appr=17%  pe=53.2
+  12. HPE    yield= 3.62%  strike=68.0  prem=2.46  delta=-0.329  exp=2026-11-06  appr=259%  pe=36.4
+  13. MRVL   yield= 3.55%  strike=265.0  prem=9.40  delta=-0.294  exp=2026-11-06  appr=292%  pe=94.3
+  14. DELL   yield= 3.37%  strike=540.0  prem=18.20  delta=-0.295  exp=2026-11-06  appr=390%  pe=33.4
+  15. GLW    yield= 3.33%  strike=150.0  prem=5.00  delta=-0.271  exp=2026-11-06  appr=277%  pe=77.4
+  16. AMAT   yield= 3.19%  strike=490.0  prem=15.65  delta=-0.306  exp=2026-11-06  appr=163%  pe=45.8
+  17. ANET   yield= 3.15%  strike=200.0  prem=6.30  delta=-0.278  exp=2026-11-06  appr=116%  pe=68.1
+  18. VLO    yield= 2.90%  strike=400.0  prem=11.60  delta=-0.312  exp=2026-11-06  appr=228%  pe=17.5
+  19. MU     yield= 2.88%  strike=1025.0  prem=29.50  delta=-0.298  exp=2026-11-06  appr=967%  pe=14.1
+  20. GNRC   yield= 2.80%  strike=200.0  prem=5.60  delta=-0.249  exp=2026-11-06  appr=29%  pe=50.9
