@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Daily Stock Screener — Cash-Secured Put Candidates</title>
+  <style>
+    :root {
+      --bg: #0f1419;
+      --panel: #1a212b;
+      --panel-2: #222c38;
+      --border: #2e3a49;
+      --text: #e6edf3;
+      --muted: #9aa7b4;
+      --accent: #4da3ff;
+      --good: #3fb950;
+      --head: #141b24;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+      font: 15px/1.55 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      padding: 32px 20px 64px;
+    }
+    .wrap { max-width: 1100px; margin: 0 auto; }
+    header h1 { margin: 0 0 4px; font-size: 26px; letter-spacing: -0.01em; }
+    header .meta { color: var(--muted); font-size: 14px; margin-bottom: 24px; }
+    header .meta strong { color: var(--text); }
+
+    .logic {
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 20px 24px;
+      margin-bottom: 32px;
+    }
+    .logic h2 { margin: 0 0 12px; font-size: 17px; }
+    .logic p.lead { margin: 0 0 16px; color: var(--muted); }
+    .filters { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 14px; }
+    .filter {
+      background: var(--panel-2);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 14px 16px;
+    }
+    .filter .num {
+      display: inline-flex; align-items: center; justify-content: center;
+      width: 22px; height: 22px; border-radius: 50%;
+      background: var(--accent); color: #06121f; font-weight: 700; font-size: 13px;
+      margin-right: 8px;
+    }
+    .filter h3 { margin: 0 0 6px; font-size: 14px; display: flex; align-items: center; }
+    .filter p { margin: 0; color: var(--muted); font-size: 13px; }
+    .ranking-note { margin: 16px 0 0; color: var(--muted); font-size: 13px; }
+
+    section.table-block { margin-bottom: 40px; }
+    .table-head { display: flex; align-items: baseline; justify-content: space-between; flex-wrap: wrap; gap: 8px; margin-bottom: 12px; }
+    .table-head h2 { margin: 0; font-size: 19px; }
+    .table-head .counts { color: var(--muted); font-size: 13px; }
+    .table-head .counts b { color: var(--good); }
+
+    .table-scroll { overflow-x: auto; border: 1px solid var(--border); border-radius: 12px; }
+    table { border-collapse: collapse; width: 100%; min-width: 760px; }
+    thead th {
+      background: var(--head); color: var(--muted); text-align: right;
+      font-size: 12px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.03em;
+      padding: 11px 14px; border-bottom: 1px solid var(--border); white-space: nowrap;
+    }
+    thead th:first-child, tbody td:first-child { text-align: left; }
+    thead th.rank, tbody td.rank { text-align: center; width: 44px; }
+    tbody td { padding: 10px 14px; text-align: right; border-bottom: 1px solid var(--border); white-space: nowrap; }
+    tbody tr:last-child td { border-bottom: none; }
+    tbody tr:nth-child(even) { background: rgba(255,255,255,0.015); }
+    tbody tr:hover { background: rgba(77,163,255,0.08); }
+    td.ticker { font-weight: 700; letter-spacing: 0.02em; }
+    td.yield { color: var(--good); font-weight: 700; }
+    .empty { padding: 24px; color: var(--muted); text-align: center; }
+    footer { color: var(--muted); font-size: 12px; text-align: center; margin-top: 24px; }
+    code { background: var(--panel-2); padding: 1px 6px; border-radius: 5px; font-size: 12px; }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <h1>Daily Stock Screener</h1>
+      <div class="meta">
+        Cash-secured put candidates &middot; run date <strong id="run-date">—</strong>
+      </div>
+    </header>
+
+    <div class="logic">
+      <h2>How these stocks were chosen</h2>
+      <p class="lead">
+        Every S&amp;P 500 and Nasdaq-100 name is scanned, and a stock qualifies only when it
+        passes all four independent filters below. Qualifiers are then ranked by put premium yield.
+      </p>
+      <div class="filters">
+        <div class="filter">
+          <h3><span class="num">1</span> Uptrend</h3>
+          <p>Price is at least <strong>15% higher</strong> than it was ~378 trading days (about 1.5 years) ago.</p>
+        </div>
+        <div class="filter">
+          <h3><span class="num">2</span> Valuation &amp; earnings health</h3>
+          <p>Positive trailing earnings, and either a <strong>P/E below 100</strong> or cash reserves at least equal to market cap.</p>
+        </div>
+        <div class="filter">
+          <h3><span class="num">3</span> Cash-secured put premium</h3>
+          <p>On the ~30-day expiry, the put nearest <strong>0.30 delta</strong> yields at least <strong>2.5%</strong> (premium &divide; strike).</p>
+        </div>
+        <div class="filter">
+          <h3><span class="num">4</span> Earnings consistency</h3>
+          <p>At least 4 reported quarters, an unbroken quarterly cadence, and <strong>no 3 consecutive misses</strong>.</p>
+        </div>
+      </div>
+      <p class="ranking-note">
+        Qualifiers are ordered by premium yield (highest first); ties break alphabetically by ticker.
+        Each list is capped at the top 20.
+      </p>
+    </div>
+
+    <section class="table-block">
+      <div class="table-head">
+        <h2>Nasdaq-100</h2>
+        <div class="counts" id="counts-nasdaq100"></div>
+      </div>
+      <div class="table-scroll"><table id="table-nasdaq100"></table></div>
+    </section>
+
+    <section class="table-block">
+      <div class="table-head">
+        <h2>S&amp;P 500</h2>
+        <div class="counts" id="counts-sp500"></div>
+      </div>
+      <div class="table-scroll"><table id="table-sp500"></table></div>
+    </section>
+
+    <footer id="footer"></footer>
+  </div>
+
+  <script src="data.js"></script>
+  <script>
+    (function () {
+      var data = window.SCREENER_DATA;
+      if (!data) {
+        document.querySelector(".wrap").insertAdjacentHTML(
+          "beforeend",
+          '<p class="empty">No data found. Run <code>python ui/build_data.py</code> to generate <code>ui/data.js</code>.</p>'
+        );
+        return;
+      }
+
+      document.getElementById("run-date").textContent = data.runDate;
+
+      var COLUMNS = [
+        { key: "_rank",           label: "#",         cls: "rank" },
+        { key: "ticker",          label: "Ticker",    cls: "ticker", fmt: function (v) { return v; } },
+        { key: "premiumYield",    label: "Prem. yield", cls: "yield", fmt: pct },
+        { key: "strike",          label: "Strike",    fmt: money },
+        { key: "premium",         label: "Premium",   fmt: money },
+        { key: "delta",           label: "Delta",     fmt: num3 },
+        { key: "expiry",          label: "Expiry",    fmt: function (v) { return v; } },
+        { key: "netAppreciation", label: "1.5y appr.", fmt: pctWhole },
+        { key: "peRatio",         label: "P/E",       fmt: num1 }
+      ];
+
+      renderTable("nasdaq100");
+      renderTable("sp500");
+
+      document.getElementById("footer").textContent =
+        "Generated " + data.generatedAt + " from the latest reports/ CSVs. " +
+        "Analysis tool, not investment advice.";
+
+      function renderTable(key) {
+        var tbl = document.getElementById("table-" + key);
+        var block = (data.tables && data.tables[key]) || { rows: [], counts: {} };
+        var rows = block.rows || [];
+        var counts = block.counts || {};
+
+        var countsEl = document.getElementById("counts-" + key);
+        if (counts.candidates != null) {
+          countsEl.innerHTML = "Scanned " + counts.candidates +
+            " &middot; <b>" + (counts.qualifying != null ? counts.qualifying : rows.length) +
+            "</b> qualified &middot; showing " + rows.length;
+        } else {
+          countsEl.innerHTML = "<b>" + rows.length + "</b> qualified";
+        }
+
+        if (!rows.length) {
+          tbl.outerHTML = '<table id="table-' + key + '"><tbody><tr><td class="empty">No stocks qualified in this run.</td></tr></tbody></table>';
+          return;
+        }
+
+        var thead = "<thead><tr>" + COLUMNS.map(function (c) {
+          return '<th class="' + (c.cls || "") + '">' + c.label + "</th>";
+        }).join("") + "</tr></thead>";
+
+        var tbody = "<tbody>" + rows.map(function (r, i) {
+          return "<tr>" + COLUMNS.map(function (c) {
+            var raw = c.key === "_rank" ? (i + 1) : r[c.key];
+            var val = c.fmt ? c.fmt(raw) : raw;
+            return '<td class="' + (c.cls || "") + '">' + (val == null || val === "" ? "&mdash;" : val) + "</td>";
+          }).join("") + "</tr>";
+        }).join("") + "</tbody>";
+
+        tbl.innerHTML = thead + tbody;
+      }
+
+      // ---- formatters (CSV values are strings) ----
+      function toNum(v) { var n = parseFloat(v); return isNaN(n) ? null : n; }
+      function pct(v)      { var n = toNum(v); return n == null ? null : (n * 100).toFixed(2) + "%"; }
+      function pctWhole(v) { var n = toNum(v); return n == null ? null : Math.round(n * 100) + "%"; }
+      function money(v)    { var n = toNum(v); return n == null ? null : "$" + n.toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 }); }
+      function num1(v)     { var n = toNum(v); return n == null ? null : n.toFixed(1); }
+      function num3(v)     { var n = toNum(v); return n == null ? null : n.toFixed(3); }
+    })();
+  </script>
+</body>
+</html>
