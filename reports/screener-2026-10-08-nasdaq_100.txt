@@ -1,15 +1,12 @@
 Daily Stock Screener - run 2026-10-08
 Candidates scanned: 100
-Qualifying tickers: 10
+Qualifying tickers: 7
 
 Ranked by premium yield (descending):
-   1. KLAC   yield= 4.11%  strike=185.0  prem=7.60  delta=-0.320  exp=2026-11-06  appr=155%  pe=53.9
-   2. TER    yield= 4.08%  strike=380.0  prem=15.50  delta=-0.306  exp=2026-11-06  appr=220%  pe=59.1
-   3. SNDK   yield= 3.95%  strike=1570.0  prem=62.00  delta=-0.298  exp=2026-11-06  appr=4601%  pe=22.5
-   4. LRCX   yield= 3.82%  strike=310.0  prem=11.85  delta=-0.316  exp=2026-11-06  appr=313%  pe=57.2
-   5. WDC    yield= 3.77%  strike=375.0  prem=14.15  delta=-0.293  exp=2026-11-06  appr=715%  pe=15.3
-   6. MRVL   yield= 3.55%  strike=265.0  prem=9.40  delta=-0.294  exp=2026-11-06  appr=292%  pe=94.3
-   7. AMAT   yield= 3.19%  strike=490.0  prem=15.65  delta=-0.306  exp=2026-11-06  appr=163%  pe=45.8
-   8. MU     yield= 2.88%  strike=1025.0  prem=29.50  delta=-0.298  exp=2026-11-06  appr=967%  pe=14.1
-   9. FTNT   yield= 2.74%  strike=175.0  prem=4.80  delta=-0.285  exp=2026-11-06  appr=143%  pe=67.6
-  10. TXN    yield= 2.57%  strike=270.0  prem=6.95  delta=-0.280  exp=2026-11-06  appr=51%  pe=45.2
+   1. TER    yield= 7.43%  strike=400.0  prem=29.74  delta=-0.000  exp=2026-11-06  appr=220%  pe=56.6
+   2. WDC    yield= 6.96%  strike=400.0  prem=27.82  delta=-0.000  exp=2026-11-06  appr=715%  pe=15.3
+   3. SNDK   yield= 6.24%  strike=1640.0  prem=102.32  delta=-0.000  exp=2026-11-06  appr=4601%  pe=22.5
+   4. LRCX   yield= 4.35%  strike=310.0  prem=13.49  delta=-0.000  exp=2026-11-06  appr=313%  pe=57.2
+   5. AMAT   yield= 3.46%  strike=490.0  prem=16.93  delta=-0.000  exp=2026-11-06  appr=163%  pe=45.8
+   6. MU     yield= 2.83%  strike=1020.0  prem=28.87  delta=-0.000  exp=2026-11-06  appr=967%  pe=14.1
+   7. KLAC   yield= 2.79%  strike=175.0  prem=4.89  delta=-0.000  exp=2026-11-06  appr=155%  pe=53.9
