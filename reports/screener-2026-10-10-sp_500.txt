@@ -1,0 +1,26 @@
+Daily Stock Screener - run 2026-10-10
+Candidates scanned: 503
+Qualifying tickers: 22
+Reported (capped at 20): 20  (omitted 2)
+
+Ranked by premium yield (descending):
+   1. CBOE   yield= 9.29%  strike=290.0  prem=26.93  delta=-0.302  exp=2026-11-06  appr=49%  pe=22.9
+   2. TWLO   yield= 4.75%  strike=265.0  prem=12.60  delta=-0.299  exp=2026-11-06  appr=313%  pe=40.0
+   3. GNRC   yield= 4.14%  strike=215.0  prem=8.90  delta=-0.353  exp=2026-11-06  appr=35%  pe=51.7
+   4. TER    yield= 4.05%  strike=370.0  prem=15.00  delta=-0.299  exp=2026-11-06  appr=214%  pe=55.3
+   5. HOOD   yield= 4.02%  strike=102.0  prem=4.10  delta=-0.308  exp=2026-11-06  appr=328%  pe=47.2
+   6. SNDK   yield= 3.99%  strike=1470.0  prem=58.60  delta=-0.299  exp=2026-11-06  appr=4294%  pe=21.4
+   7. COHR   yield= 3.90%  strike=290.0  prem=11.30  delta=-0.304  exp=2026-11-06  appr=216%  pe=73.4
+   8. RDDT   yield= 3.90%  strike=145.0  prem=5.65  delta=-0.272  exp=2026-11-06  appr=129%  pe=36.4
+   9. FTNT   yield= 3.89%  strike=180.0  prem=7.00  delta=-0.291  exp=2026-11-06  appr=136%  pe=68.8
+  10. MRVL   yield= 3.75%  strike=260.0  prem=9.75  delta=-0.319  exp=2026-11-06  appr=282%  pe=90.6
+  11. VRT    yield= 3.64%  strike=225.0  prem=8.20  delta=-0.289  exp=2026-11-06  appr=126%  pe=54.9
+  12. HPE    yield= 3.64%  strike=69.0  prem=2.51  delta=-0.310  exp=2026-11-06  appr=274%  pe=36.5
+  13. LRCX   yield= 3.58%  strike=300.0  prem=10.75  delta=-0.314  exp=2026-11-06  appr=294%  pe=55.4
+  14. ANET   yield= 3.46%  strike=205.0  prem=7.10  delta=-0.320  exp=2026-11-06  appr=112%  pe=68.4
+  15. KLAC   yield= 3.44%  strike=180.0  prem=6.20  delta=-0.277  exp=2026-11-06  appr=149%  pe=53.4
+  16. GLW    yield= 3.31%  strike=145.0  prem=4.80  delta=-0.280  exp=2026-11-06  appr=251%  pe=71.9
+  17. DELL   yield= 3.29%  strike=550.0  prem=18.10  delta=-0.302  exp=2026-11-06  appr=384%  pe=34.1
+  18. WDC    yield= 3.20%  strike=370.0  prem=11.85  delta=-0.299  exp=2026-11-06  appr=725%  pe=14.8
+  19. GEV    yield= 2.86%  strike=945.0  prem=27.00  delta=-0.298  exp=2026-11-06  appr=281%  pe=28.8
+  20. AMAT   yield= 2.80%  strike=475.0  prem=13.30  delta=-0.291  exp=2026-11-06  appr=153%  pe=44.0
