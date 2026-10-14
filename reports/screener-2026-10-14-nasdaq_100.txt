@@ -1,0 +1,19 @@
+Daily Stock Screener - run 2026-10-14
+Candidates scanned: 101
+Qualifying tickers: 14
+
+Ranked by premium yield (descending):
+   1. AMAT   yield= 5.98%  strike=465.0  prem=27.80  delta=-0.300  exp=2026-11-13  appr=136%  pe=40.1
+   2. LRCX   yield= 5.00%  strike=290.0  prem=14.50  delta=-0.314  exp=2026-11-13  appr=267%  pe=52.3
+   3. KLAC   yield= 4.80%  strike=175.0  prem=8.40  delta=-0.281  exp=2026-11-13  appr=133%  pe=50.3
+   4. TER    yield= 4.46%  strike=350.0  prem=15.60  delta=-0.291  exp=2026-11-13  appr=189%  pe=52.2
+   5. SNDK   yield= 4.40%  strike=1370.0  prem=60.30  delta=-0.294  exp=2026-11-13  appr=4031%  pe=20.1
+   6. MU     yield= 4.26%  strike=930.0  prem=39.65  delta=-0.300  exp=2026-11-13  appr=818%  pe=12.8
+   7. WDC    yield= 4.01%  strike=360.0  prem=14.45  delta=-0.307  exp=2026-11-13  appr=670%  pe=14.1
+   8. FTNT   yield= 3.83%  strike=180.0  prem=6.90  delta=-0.306  exp=2026-11-13  appr=133%  pe=67.4
+   9. MPWR   yield= 3.75%  strike=1220.0  prem=45.80  delta=-0.294  exp=2026-11-20  appr=42%  pe=80.3
+  10. CDNS   yield= 3.51%  strike=325.0  prem=11.40  delta=-0.284  exp=2026-11-13  appr=23%  pe=66.4
+  11. MRVL   yield= 3.33%  strike=245.0  prem=8.15  delta=-0.281  exp=2026-11-13  appr=244%  pe=88.4
+  12. ASML   yield= 2.97%  strike=1650.0  prem=49.00  delta=-0.298  exp=2026-11-13  appr=104%  pe=55.8
+  13. FAST   yield= 2.70%  strike=50.0  prem=1.35  delta=-0.359  exp=2026-11-20  appr=40%  pe=44.0
+  14. CSCO   yield= 2.62%  strike=109.0  prem=2.86  delta=-0.306  exp=2026-11-13  appr=122%  pe=34.6

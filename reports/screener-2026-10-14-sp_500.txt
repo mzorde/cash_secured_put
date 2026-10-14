@@ -1,0 +1,26 @@
+Daily Stock Screener - run 2026-10-14
+Candidates scanned: 503
+Qualifying tickers: 49
+Reported (capped at 20): 20  (omitted 29)
+
+Ranked by premium yield (descending):
+   1. ILMN   yield= 6.19%  strike=260.0  prem=16.10  delta=-0.335  exp=2026-11-20  appr=86%  pe=50.6
+   2. FLEX   yield= 6.10%  strike=105.0  prem=6.40  delta=-0.266  exp=2026-11-20  appr=231%  pe=42.8
+   3. AMAT   yield= 5.98%  strike=465.0  prem=27.80  delta=-0.300  exp=2026-11-13  appr=136%  pe=40.1
+   4. RDDT   yield= 5.66%  strike=145.0  prem=8.20  delta=-0.282  exp=2026-11-13  appr=114%  pe=36.1
+   5. FIX    yield= 5.03%  strike=1500.0  prem=75.50  delta=-0.295  exp=2026-11-20  appr=293%  pe=40.0
+   6. ANET   yield= 5.00%  strike=200.0  prem=10.00  delta=-0.332  exp=2026-11-13  appr=104%  pe=64.5
+   7. LRCX   yield= 5.00%  strike=290.0  prem=14.50  delta=-0.314  exp=2026-11-13  appr=267%  pe=52.3
+   8. TWLO   yield= 4.81%  strike=260.0  prem=12.50  delta=-0.304  exp=2026-11-13  appr=298%  pe=38.9
+   9. KLAC   yield= 4.80%  strike=175.0  prem=8.40  delta=-0.281  exp=2026-11-13  appr=133%  pe=50.3
+  10. COHR   yield= 4.53%  strike=265.0  prem=12.00  delta=-0.305  exp=2026-11-13  appr=181%  pe=70.4
+  11. TER    yield= 4.46%  strike=350.0  prem=15.60  delta=-0.291  exp=2026-11-13  appr=189%  pe=52.2
+  12. HPE    yield= 4.45%  strike=66.0  prem=2.94  delta=-0.316  exp=2026-11-13  appr=255%  pe=35.5
+  13. VRT    yield= 4.44%  strike=225.0  prem=10.00  delta=-0.323  exp=2026-11-13  appr=113%  pe=53.7
+  14. SNDK   yield= 4.40%  strike=1370.0  prem=60.30  delta=-0.294  exp=2026-11-13  appr=4031%  pe=20.1
+  15. MU     yield= 4.26%  strike=930.0  prem=39.65  delta=-0.300  exp=2026-11-13  appr=818%  pe=12.8
+  16. GNRC   yield= 4.05%  strike=205.0  prem=8.30  delta=-0.314  exp=2026-11-13  appr=26%  pe=49.3
+  17. WDC    yield= 4.01%  strike=360.0  prem=14.45  delta=-0.307  exp=2026-11-13  appr=670%  pe=14.1
+  18. DELL   yield= 4.00%  strike=540.0  prem=21.60  delta=-0.309  exp=2026-11-13  appr=363%  pe=33.3
+  19. KEYS   yield= 3.89%  strike=360.0  prem=14.00  delta=-0.324  exp=2026-11-20  appr=138%  pe=50.1
+  20. FTNT   yield= 3.83%  strike=180.0  prem=6.90  delta=-0.306  exp=2026-11-13  appr=133%  pe=67.4
