@@ -1,0 +1,26 @@
+Daily Stock Screener - run 2026-10-15
+Candidates scanned: 503
+Qualifying tickers: 50
+Reported (capped at 20): 20  (omitted 30)
+
+Ranked by premium yield (descending):
+   1. DELL   yield= 9.00%  strike=530.0  prem=47.70  delta=-0.293  exp=2026-11-13  appr=369%  pe=29.5
+   2. RDDT   yield= 7.24%  strike=143.0  prem=10.35  delta=-0.312  exp=2026-11-13  appr=107%  pe=34.6
+   3. HPE    yield= 7.19%  strike=64.0  prem=4.60  delta=-0.304  exp=2026-11-13  appr=247%  pe=32.5
+   4. SNDK   yield= 6.58%  strike=1370.0  prem=90.20  delta=-0.302  exp=2026-11-13  appr=4018%  pe=19.0
+   5. VRT    yield= 6.50%  strike=220.0  prem=14.30  delta=-0.300  exp=2026-11-13  appr=121%  pe=50.4
+   6. TWLO   yield= 6.42%  strike=260.0  prem=16.70  delta=-0.312  exp=2026-11-13  appr=301%  pe=37.5
+   7. GEV    yield= 5.57%  strike=940.0  prem=52.40  delta=-0.295  exp=2026-11-13  appr=279%  pe=27.0
+   8. FIX    yield= 5.15%  strike=1420.0  prem=73.10  delta=-0.306  exp=2026-11-20  appr=275%  pe=37.9
+   9. ANET   yield= 5.08%  strike=190.0  prem=9.65  delta=-0.290  exp=2026-11-13  appr=109%  pe=61.6
+  10. FLEX   yield= 4.78%  strike=90.0  prem=4.30  delta=-0.272  exp=2026-11-20  appr=192%  pe=38.7
+  11. COHR   yield= 4.58%  strike=240.0  prem=11.00  delta=-0.294  exp=2026-11-13  appr=162%  pe=63.9
+  12. CIEN   yield= 4.51%  strike=335.0  prem=15.10  delta=-0.322  exp=2026-11-13  appr=446%  pe=80.4
+  13. KEYS   yield= 4.37%  strike=350.0  prem=15.30  delta=-0.315  exp=2026-11-20  appr=134%  pe=48.4
+  14. MRVL   yield= 4.30%  strike=230.0  prem=9.90  delta=-0.317  exp=2026-11-13  appr=210%  pe=80.7
+  15. WDC    yield= 4.24%  strike=335.0  prem=14.20  delta=-0.295  exp=2026-11-13  appr=623%  pe=13.5
+  16. ILMN   yield= 4.16%  strike=250.0  prem=10.40  delta=-0.294  exp=2026-11-20  appr=84%  pe=50.7
+  17. TER    yield= 4.12%  strike=330.0  prem=13.60  delta=-0.302  exp=2026-11-13  appr=184%  pe=49.4
+  18. LRCX   yield= 3.94%  strike=270.0  prem=10.65  delta=-0.319  exp=2026-11-13  appr=281%  pe=49.8
+  19. MPWR   yield= 3.86%  strike=1150.0  prem=44.40  delta=-0.296  exp=2026-11-20  appr=41%  pe=75.6
+  20. NTAP   yield= 3.81%  strike=210.0  prem=8.00  delta=-0.323  exp=2026-11-20  appr=84%  pe=31.3
