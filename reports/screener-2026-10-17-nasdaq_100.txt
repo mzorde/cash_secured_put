@@ -1,0 +1,23 @@
+Daily Stock Screener - run 2026-10-17
+Candidates scanned: 101
+Qualifying tickers: 18
+
+Ranked by premium yield (descending):
+   1. FTNT   yield= 7.26%  strike=170.0  prem=12.35  delta=-0.319  exp=2026-11-13  appr=125%  pe=59.8
+   2. WDC    yield= 7.21%  strike=330.0  prem=23.80  delta=-0.306  exp=2026-11-13  appr=604%  pe=12.3
+   3. SNDK   yield= 7.19%  strike=1280.0  prem=92.00  delta=-0.294  exp=2026-11-13  appr=3775%  pe=17.6
+   4. MRVL   yield= 6.18%  strike=225.0  prem=13.90  delta=-0.304  exp=2026-11-13  appr=203%  pe=74.9
+   5. TER    yield= 5.90%  strike=315.0  prem=18.60  delta=-0.299  exp=2026-11-13  appr=172%  pe=44.6
+   6. MPWR   yield= 5.36%  strike=1160.0  prem=62.20  delta=-0.305  exp=2026-11-20  appr=38%  pe=73.7
+   7. LRCX   yield= 5.35%  strike=260.0  prem=13.90  delta=-0.307  exp=2026-11-13  appr=285%  pe=45.8
+   8. MU     yield= 5.09%  strike=875.0  prem=44.50  delta=-0.294  exp=2026-11-13  appr=736%  pe=11.8
+   9. AMAT   yield= 5.00%  strike=405.0  prem=20.25  delta=-0.313  exp=2026-11-13  appr=138%  pe=35.3
+  10. KLAC   yield= 5.00%  strike=160.0  prem=8.00  delta=-0.271  exp=2026-11-13  appr=164%  pe=45.3
+  11. AVGO   yield= 4.23%  strike=330.0  prem=13.95  delta=-0.312  exp=2026-11-13  appr=93%  pe=43.3
+  12. CSCO   yield= 3.01%  strike=103.0  prem=3.10  delta=-0.290  exp=2026-11-13  appr=103%  pe=32.2
+  13. NVDA   yield= 2.98%  strike=210.0  prem=6.25  delta=-0.335  exp=2026-11-13  appr=59%  pe=27.1
+  14. TXN    yield= 2.96%  strike=260.0  prem=7.70  delta=-0.279  exp=2026-11-13  appr=49%  pe=42.1
+  15. ADI    yield= 2.94%  strike=385.0  prem=11.30  delta=-0.314  exp=2026-11-13  appr=83%  pe=47.0
+  16. CDNS   yield= 2.92%  strike=305.0  prem=8.90  delta=-0.294  exp=2026-11-13  appr=23%  pe=63.5
+  17. AMZN   yield= 2.67%  strike=240.0  prem=6.40  delta=-0.286  exp=2026-11-13  appr=36%  pe=20.1
+  18. MSFT   yield= 2.56%  strike=520.0  prem=13.30  delta=-0.314  exp=2026-11-13  appr=31%  pe=29.5
