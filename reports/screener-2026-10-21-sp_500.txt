@@ -1,0 +1,26 @@
+Daily Stock Screener - run 2026-10-21
+Candidates scanned: 503
+Qualifying tickers: 48
+Reported (capped at 20): 20  (omitted 28)
+
+Ranked by premium yield (descending):
+   1. FIX    yield= 5.92%  strike=1340.0  prem=79.30  delta=-0.288  exp=2026-11-20  appr=247%  pe=34.4
+   2. TER    yield= 5.42%  strike=310.0  prem=16.80  delta=-0.314  exp=2026-11-20  appr=168%  pe=46.2
+   3. SNDK   yield= 5.27%  strike=1260.0  prem=66.40  delta=-0.301  exp=2026-11-20  appr=3709%  pe=18.5
+   4. GM     yield= 5.19%  strike=80.0  prem=4.15  delta=-0.337  exp=2026-11-20  appr=72%  pe=34.6
+   5. COHR   yield= 5.14%  strike=210.0  prem=10.80  delta=-0.286  exp=2026-11-20  appr=136%  pe=56.3
+   6. RDDT   yield= 4.86%  strike=140.0  prem=6.80  delta=-0.279  exp=2026-11-20  appr=98%  pe=36.2
+   7. KLAC   yield= 4.77%  strike=155.0  prem=7.40  delta=-0.300  exp=2026-11-20  appr=151%  pe=44.2
+   8. AMAT   yield= 4.67%  strike=390.0  prem=18.20  delta=-0.321  exp=2026-11-20  appr=128%  pe=34.9
+   9. DVA    yield= 4.63%  strike=175.0  prem=8.10  delta=-0.291  exp=2026-11-20  appr=16%  pe=14.8
+  10. GLW    yield= 4.60%  strike=125.0  prem=5.75  delta=-0.332  exp=2026-11-20  appr=191%  pe=60.7
+  11. TWLO   yield= 4.48%  strike=230.0  prem=10.30  delta=-0.270  exp=2026-11-20  appr=265%  pe=35.8
+  12. CNP    yield= 4.47%  strike=38.0  prem=1.70  delta=-0.279  exp=2026-11-20  appr=38%  pe=23.8
+  13. VRT    yield= 4.45%  strike=190.0  prem=8.45  delta=-0.290  exp=2026-11-20  appr=84%  pe=46.1
+  14. LRCX   yield= 4.38%  strike=250.0  prem=10.95  delta=-0.270  exp=2026-11-20  appr=279%  pe=45.7
+  15. CIEN   yield= 4.25%  strike=320.0  prem=13.60  delta=-0.316  exp=2026-11-20  appr=417%  pe=76.5
+  16. FTNT   yield= 4.22%  strike=160.0  prem=6.75  delta=-0.309  exp=2026-11-20  appr=109%  pe=60.4
+  17. HWM    yield= 4.14%  strike=210.0  prem=8.70  delta=-0.320  exp=2026-11-20  appr=108%  pe=45.6
+  18. FLEX   yield= 4.12%  strike=80.0  prem=3.30  delta=-0.298  exp=2026-11-20  appr=155%  pe=37.4
+  19. PWR    yield= 4.03%  strike=580.0  prem=23.40  delta=-0.295  exp=2026-11-20  appr=95%  pe=68.3
+  20. MRVL   yield= 3.98%  strike=220.0  prem=8.75  delta=-0.303  exp=2026-11-20  appr=191%  pe=79.1
