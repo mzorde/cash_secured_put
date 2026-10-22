@@ -1,0 +1,26 @@
+Daily Stock Screener - run 2026-10-22
+Candidates scanned: 503
+Qualifying tickers: 42
+Reported (capped at 20): 20  (omitted 22)
+
+Ranked by premium yield (descending):
+   1. RDDT   yield= 5.21%  strike=140.0  prem=7.30  delta=-0.273  exp=2026-11-20  appr=101%  pe=35.6
+   2. FLEX   yield= 5.12%  strike=80.0  prem=4.10  delta=-0.294  exp=2026-11-20  appr=155%  pe=36.9
+   3. T      yield= 4.74%  strike=23.0  prem=1.09  delta=-0.372  exp=2026-11-20  appr=19%  pe=7.2
+   4. LRCX   yield= 4.68%  strike=250.0  prem=11.70  delta=-0.338  exp=2026-11-20  appr=266%  pe=45.3
+   5. TWLO   yield= 4.62%  strike=240.0  prem=11.10  delta=-0.326  exp=2026-11-20  appr=266%  pe=36.9
+   6. SNDK   yield= 4.51%  strike=1260.0  prem=56.80  delta=-0.304  exp=2026-11-20  appr=3693%  pe=18.7
+   7. TER    yield= 4.35%  strike=310.0  prem=13.50  delta=-0.307  exp=2026-11-20  appr=170%  pe=47.5
+   8. COHR   yield= 4.19%  strike=210.0  prem=8.80  delta=-0.285  exp=2026-11-20  appr=140%  pe=57.7
+   9. FIX    yield= 4.02%  strike=1280.0  prem=51.40  delta=-0.287  exp=2026-11-20  appr=239%  pe=34.4
+  10. MPC    yield= 4.00%  strike=450.0  prem=18.00  delta=-0.320  exp=2026-11-20  appr=212%  pe=16.2
+  11. GLW    yield= 3.92%  strike=125.0  prem=4.90  delta=-0.334  exp=2026-11-20  appr=188%  pe=60.8
+  12. TPR    yield= 3.73%  strike=110.0  prem=4.10  delta=-0.300  exp=2026-11-20  appr=176%  pe=16.2
+  13. WDC    yield= 3.60%  strike=340.0  prem=12.25  delta=-0.318  exp=2026-11-20  appr=615%  pe=14.1
+  14. AMAT   yield= 3.55%  strike=380.0  prem=13.50  delta=-0.309  exp=2026-11-20  appr=125%  pe=35.3
+  15. VLO    yield= 3.51%  strike=410.0  prem=14.40  delta=-0.326  exp=2026-11-20  appr=237%  pe=18.2
+  16. KLAC   yield= 3.40%  strike=150.0  prem=5.10  delta=-0.294  exp=2026-11-20  appr=145%  pe=44.2
+  17. FTNT   yield= 3.38%  strike=160.0  prem=5.40  delta=-0.314  exp=2026-11-20  appr=107%  pe=61.5
+  18. MRVL   yield= 3.32%  strike=220.0  prem=7.30  delta=-0.274  exp=2026-11-20  appr=190%  pe=80.5
+  19. ANET   yield= 3.29%  strike=170.0  prem=5.60  delta=-0.310  exp=2026-11-20  appr=83%  pe=58.1
+  20. FFIV   yield= 3.23%  strike=430.0  prem=13.90  delta=-0.313  exp=2026-11-20  appr=110%  pe=36.5
