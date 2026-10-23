@@ -1,0 +1,26 @@
+Daily Stock Screener - run 2026-10-23
+Candidates scanned: 503
+Qualifying tickers: 69
+Reported (capped at 20): 20  (omitted 49)
+
+Ranked by premium yield (descending):
+   1. COHR   yield=11.45%  strike=220.0  prem=25.20  delta=-0.321  exp=2026-11-20  appr=143%  pe=57.7
+   2. TER    yield= 9.94%  strike=320.0  prem=31.80  delta=-0.318  exp=2026-11-20  appr=180%  pe=42.4
+   3. FLEX   yield= 9.25%  strike=80.0  prem=7.40  delta=-0.321  exp=2026-11-20  appr=153%  pe=32.8
+   4. CIEN   yield= 8.73%  strike=330.0  prem=28.80  delta=-0.288  exp=2026-11-20  appr=445%  pe=72.2
+   5. SNDK   yield= 8.64%  strike=1260.0  prem=108.90  delta=-0.295  exp=2026-11-20  appr=3728%  pe=18.7
+   6. GEV    yield= 8.60%  strike=870.0  prem=74.80  delta=-0.309  exp=2026-11-20  appr=232%  pe=23.7
+   7. MRVL   yield= 8.57%  strike=230.0  prem=19.70  delta=-0.324  exp=2026-11-20  appr=201%  pe=73.5
+   8. LRCX   yield= 8.15%  strike=240.0  prem=19.55  delta=-0.261  exp=2026-11-20  appr=263%  pe=34.3
+   9. KLAC   yield= 7.96%  strike=152.0  prem=12.10  delta=-0.303  exp=2026-11-20  appr=150%  pe=44.7
+  10. FIX    yield= 7.90%  strike=1280.0  prem=101.10  delta=-0.289  exp=2026-11-20  appr=242%  pe=34.5
+  11. MPWR   yield= 7.89%  strike=1190.0  prem=93.90  delta=-0.303  exp=2026-11-20  appr=47%  pe=78.1
+  12. GLW    yield= 7.56%  strike=125.0  prem=9.45  delta=-0.299  exp=2026-11-20  appr=197%  pe=62.0
+  13. VRT    yield= 7.41%  strike=195.0  prem=14.45  delta=-0.291  exp=2026-11-20  appr=96%  pe=44.3
+  14. WDC    yield= 7.19%  strike=350.0  prem=25.15  delta=-0.304  exp=2026-11-20  appr=655%  pe=14.1
+  15. DELL   yield= 6.98%  strike=450.0  prem=31.40  delta=-0.299  exp=2026-11-20  appr=318%  pe=28.3
+  16. AMAT   yield= 6.75%  strike=380.0  prem=25.65  delta=-0.289  exp=2026-11-20  appr=127%  pe=35.3
+  17. APH    yield= 6.67%  strike=75.0  prem=5.00  delta=-0.321  exp=2026-11-20  appr=135%  pe=39.5
+  18. PWR    yield= 6.62%  strike=560.0  prem=37.10  delta=-0.295  exp=2026-11-20  appr=96%  pe=68.9
+  19. TWLO   yield= 6.62%  strike=240.0  prem=15.90  delta=-0.280  exp=2026-11-20  appr=278%  pe=35.1
+  20. GNRC   yield= 6.59%  strike=185.0  prem=12.20  delta=-0.279  exp=2026-11-20  appr=22%  pe=43.2

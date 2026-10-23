@@ -1,0 +1,24 @@
+Daily Stock Screener - run 2026-10-23
+Candidates scanned: 101
+Qualifying tickers: 19
+
+Ranked by premium yield (descending):
+   1. TER    yield= 9.94%  strike=320.0  prem=31.80  delta=-0.318  exp=2026-11-20  appr=180%  pe=42.4
+   2. SNDK   yield= 8.64%  strike=1260.0  prem=108.90  delta=-0.295  exp=2026-11-20  appr=3728%  pe=18.7
+   3. MRVL   yield= 8.57%  strike=230.0  prem=19.70  delta=-0.324  exp=2026-11-20  appr=201%  pe=73.5
+   4. LRCX   yield= 8.15%  strike=240.0  prem=19.55  delta=-0.261  exp=2026-11-20  appr=263%  pe=34.3
+   5. KLAC   yield= 7.96%  strike=152.0  prem=12.10  delta=-0.303  exp=2026-11-20  appr=150%  pe=44.7
+   6. MPWR   yield= 7.89%  strike=1190.0  prem=93.90  delta=-0.303  exp=2026-11-20  appr=47%  pe=78.1
+   7. WDC    yield= 7.19%  strike=350.0  prem=25.15  delta=-0.304  exp=2026-11-20  appr=655%  pe=14.1
+   8. AMAT   yield= 6.75%  strike=380.0  prem=25.65  delta=-0.289  exp=2026-11-20  appr=127%  pe=35.3
+   9. MU     yield= 6.26%  strike=860.0  prem=53.85  delta=-0.309  exp=2026-11-20  appr=774%  pe=12.3
+  10. ASML   yield= 5.39%  strike=1590.0  prem=85.70  delta=-0.298  exp=2026-11-20  appr=141%  pe=41.3
+  11. AMZN   yield= 4.60%  strike=250.0  prem=11.50  delta=-0.311  exp=2026-11-20  appr=42%  pe=21.1
+  12. CDNS   yield= 4.33%  strike=305.0  prem=13.20  delta=-0.284  exp=2026-11-20  appr=31%  pe=61.6
+  13. NVDA   yield= 4.21%  strike=210.0  prem=8.85  delta=-0.289  exp=2026-11-20  appr=59%  pe=28.1
+  14. AVGO   yield= 4.12%  strike=320.0  prem=13.20  delta=-0.292  exp=2026-11-20  appr=98%  pe=41.3
+  15. ADI    yield= 3.68%  strike=380.0  prem=14.00  delta=-0.266  exp=2026-11-20  appr=84%  pe=48.2
+  16. FTNT   yield= 3.59%  strike=160.0  prem=5.75  delta=-0.283  exp=2026-11-20  appr=117%  pe=61.1
+  17. CSCO   yield= 3.20%  strike=100.0  prem=3.20  delta=-0.273  exp=2026-11-20  appr=99%  pe=32.2
+  18. TXN    yield= 3.04%  strike=270.0  prem=8.20  delta=-0.311  exp=2026-11-20  appr=49%  pe=36.9
+  19. MSFT   yield= 2.71%  strike=510.0  prem=13.80  delta=-0.289  exp=2026-11-20  appr=28%  pe=29.0
