@@ -1,0 +1,26 @@
+Daily Stock Screener - run 2026-10-24
+Candidates scanned: 503
+Qualifying tickers: 64
+Reported (capped at 20): 20  (omitted 44)
+
+Ranked by premium yield (descending):
+   1. FIX    yield= 8.23%  strike=1200.0  prem=98.80  delta=-0.314  exp=2026-11-20  appr=211%  pe=28.6
+   2. RDDT   yield= 7.25%  strike=140.0  prem=10.15  delta=-0.326  exp=2026-11-20  appr=91%  pe=33.5
+   3. SNDK   yield= 5.58%  strike=1160.0  prem=64.70  delta=-0.302  exp=2026-11-20  appr=3403%  pe=16.8
+   4. FLEX   yield= 5.43%  strike=70.0  prem=3.80  delta=-0.309  exp=2026-11-20  appr=119%  pe=33.3
+   5. WDC    yield= 5.39%  strike=330.0  prem=17.80  delta=-0.309  exp=2026-11-20  appr=610%  pe=12.8
+   6. CIEN   yield= 5.27%  strike=300.0  prem=15.80  delta=-0.319  exp=2026-11-20  appr=388%  pe=71.6
+   7. COHR   yield= 4.58%  strike=190.0  prem=8.70  delta=-0.298  exp=2026-11-20  appr=115%  pe=50.8
+   8. TER    yield= 4.57%  strike=280.0  prem=12.80  delta=-0.288  exp=2026-11-20  appr=181%  pe=42.4
+   9. MPWR   yield= 4.44%  strike=1080.0  prem=48.00  delta=-0.296  exp=2026-11-20  appr=32%  pe=69.4
+  10. GEV    yield= 4.27%  strike=780.0  prem=33.30  delta=-0.314  exp=2026-11-20  appr=180%  pe=23.4
+  11. TWLO   yield= 4.17%  strike=230.0  prem=9.60  delta=-0.291  exp=2026-11-20  appr=256%  pe=36.2
+  12. VRT    yield= 4.17%  strike=180.0  prem=7.50  delta=-0.287  exp=2026-11-20  appr=78%  pe=44.0
+  13. ILMN   yield= 4.16%  strike=250.0  prem=10.40  delta=-0.310  exp=2026-11-20  appr=91%  pe=50.3
+  14. DG     yield= 4.15%  strike=135.0  prem=5.60  delta=-0.366  exp=2026-11-20  appr=79%  pe=17.2
+  15. KLAC   yield= 4.13%  strike=138.0  prem=5.70  delta=-0.309  exp=2026-11-20  appr=125%  pe=39.8
+  16. LRCX   yield= 4.11%  strike=220.0  prem=9.05  delta=-0.348  exp=2026-11-20  appr=205%  pe=34.3
+  17. MRVL   yield= 4.07%  strike=210.0  prem=8.55  delta=-0.327  exp=2026-11-20  appr=174%  pe=75.2
+  18. HWM    yield= 4.06%  strike=180.0  prem=7.30  delta=-0.280  exp=2026-11-20  appr=93%  pe=40.1
+  19. PWR    yield= 3.90%  strike=520.0  prem=20.30  delta=-0.316  exp=2026-11-20  appr=79%  pe=62.6
+  20. DELL   yield= 3.88%  strike=420.0  prem=16.30  delta=-0.297  exp=2026-11-20  appr=287%  pe=26.5
