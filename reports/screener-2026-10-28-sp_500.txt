@@ -1,0 +1,26 @@
+Daily Stock Screener - run 2026-10-28
+Candidates scanned: 503
+Qualifying tickers: 45
+Reported (capped at 20): 20  (omitted 25)
+
+Ranked by premium yield (descending):
+   1. SNDK   yield= 4.99%  strike=1200.0  prem=59.90  delta=-0.302  exp=2026-11-27  appr=3525%  pe=17.7
+   2. RDDT   yield= 4.96%  strike=125.0  prem=6.20  delta=-0.298  exp=2026-11-27  appr=71%  pe=31.7
+   3. TWLO   yield= 4.89%  strike=235.0  prem=11.50  delta=-0.312  exp=2026-11-27  appr=261%  pe=35.2
+   4. DELL   yield= 4.64%  strike=460.0  prem=21.35  delta=-0.294  exp=2026-11-27  appr=328%  pe=29.2
+   5. HOOD   yield= 4.55%  strike=88.0  prem=4.00  delta=-0.309  exp=2026-11-27  appr=239%  pe=41.7
+   6. FLEX   yield= 4.40%  strike=75.0  prem=3.30  delta=-0.273  exp=2026-11-20  appr=136%  pe=32.2
+   7. VRT    yield= 4.28%  strike=195.0  prem=8.35  delta=-0.319  exp=2026-11-27  appr=84%  pe=47.2
+   8. MRVL   yield= 4.11%  strike=225.0  prem=9.25  delta=-0.293  exp=2026-11-27  appr=193%  pe=78.3
+   9. TER    yield= 4.00%  strike=300.0  prem=12.00  delta=-0.313  exp=2026-11-27  appr=193%  pe=44.5
+  10. FTNT   yield= 3.76%  strike=170.0  prem=6.40  delta=-0.283  exp=2026-11-27  appr=129%  pe=64.2
+  11. ILMN   yield= 3.69%  strike=260.0  prem=9.60  delta=-0.306  exp=2026-11-20  appr=94%  pe=52.1
+  12. COHR   yield= 3.67%  strike=215.0  prem=7.90  delta=-0.294  exp=2026-11-27  appr=145%  pe=57.2
+  13. KLAC   yield= 3.66%  strike=145.0  prem=5.30  delta=-0.331  exp=2026-11-27  appr=131%  pe=42.0
+  14. AMAT   yield= 3.61%  strike=370.0  prem=13.35  delta=-0.303  exp=2026-11-27  appr=117%  pe=34.2
+  15. APH    yield= 3.47%  strike=75.0  prem=2.60  delta=-0.342  exp=2026-11-20  appr=131%  pe=39.1
+  16. VLO    yield= 3.45%  strike=365.0  prem=12.60  delta=-0.312  exp=2026-11-27  appr=209%  pe=8.8
+  17. ANET   yield= 3.43%  strike=175.0  prem=6.00  delta=-0.304  exp=2026-11-27  appr=91%  pe=59.0
+  18. MU     yield= 3.42%  strike=875.0  prem=29.90  delta=-0.306  exp=2026-11-27  appr=778%  pe=12.5
+  19. WDC    yield= 3.38%  strike=355.0  prem=12.00  delta=-0.309  exp=2026-11-27  appr=626%  pe=13.4
+  20. GLW    yield= 3.37%  strike=120.0  prem=4.05  delta=-0.331  exp=2026-11-27  appr=178%  pe=57.9
