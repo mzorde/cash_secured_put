@@ -1,0 +1,18 @@
+Daily Stock Screener - run 2026-10-30
+Candidates scanned: 101
+Qualifying tickers: 13
+
+Ranked by premium yield (descending):
+   1. SNDK   yield= 4.34%  strike=1230.0  prem=53.40  delta=-0.303  exp=2026-11-27  appr=3595%  pe=18.0
+   2. MRVL   yield= 4.29%  strike=205.0  prem=8.80  delta=-0.319  exp=2026-11-27  appr=165%  pe=71.8
+   3. AMAT   yield= 3.59%  strike=395.0  prem=14.20  delta=-0.307  exp=2026-11-27  appr=131%  pe=36.4
+   4. TER    yield= 3.49%  strike=275.0  prem=9.60  delta=-0.304  exp=2026-11-27  appr=172%  pe=34.0
+   5. QCOM   yield= 3.43%  strike=175.0  prem=6.00  delta=-0.316  exp=2026-11-27  appr=15%  pe=21.5
+   6. MU     yield= 3.19%  strike=880.0  prem=28.10  delta=-0.302  exp=2026-11-27  appr=802%  pe=12.6
+   7. WDC    yield= 3.14%  strike=365.0  prem=11.45  delta=-0.289  exp=2026-11-27  appr=684%  pe=13.9
+   8. LRCX   yield= 3.04%  strike=240.0  prem=7.30  delta=-0.312  exp=2026-11-27  appr=238%  pe=37.9
+   9. NVDA   yield= 2.78%  strike=205.0  prem=5.70  delta=-0.327  exp=2026-11-27  appr=54%  pe=27.0
+  10. KLAC   yield= 2.77%  strike=155.0  prem=4.30  delta=-0.281  exp=2026-11-27  appr=146%  pe=42.0
+  11. AMZN   yield= 2.61%  strike=230.0  prem=6.00  delta=-0.293  exp=2026-11-27  appr=26%  pe=19.6
+  12. CSCO   yield= 2.61%  strike=102.0  prem=2.66  delta=-0.300  exp=2026-11-27  appr=104%  pe=32.6
+  13. ADI    yield= 2.54%  strike=410.0  prem=10.40  delta=-0.309  exp=2026-11-27  appr=94%  pe=51.5

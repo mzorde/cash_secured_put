@@ -1,0 +1,26 @@
+Daily Stock Screener - run 2026-10-30
+Candidates scanned: 503
+Qualifying tickers: 28
+Reported (capped at 20): 20  (omitted 8)
+
+Ranked by premium yield (descending):
+   1. DELL   yield= 4.69%  strike=440.0  prem=20.65  delta=-0.307  exp=2026-11-27  appr=278%  pe=27.6
+   2. TWLO   yield= 4.45%  strike=220.0  prem=9.80  delta=-0.286  exp=2026-11-27  appr=243%  pe=33.5
+   3. SNDK   yield= 4.34%  strike=1230.0  prem=53.40  delta=-0.303  exp=2026-11-27  appr=3595%  pe=18.0
+   4. MRVL   yield= 4.29%  strike=205.0  prem=8.80  delta=-0.319  exp=2026-11-27  appr=165%  pe=71.8
+   5. HPE    yield= 3.67%  strike=55.0  prem=2.02  delta=-0.307  exp=2026-11-27  appr=203%  pe=30.3
+   6. CIEN   yield= 3.66%  strike=320.0  prem=11.70  delta=-0.297  exp=2026-11-27  appr=441%  pe=78.2
+   7. AMAT   yield= 3.59%  strike=395.0  prem=14.20  delta=-0.307  exp=2026-11-27  appr=131%  pe=36.4
+   8. TER    yield= 3.49%  strike=275.0  prem=9.60  delta=-0.304  exp=2026-11-27  appr=172%  pe=34.0
+   9. QCOM   yield= 3.43%  strike=175.0  prem=6.00  delta=-0.316  exp=2026-11-27  appr=15%  pe=21.5
+  10. ANET   yield= 3.35%  strike=170.0  prem=5.70  delta=-0.279  exp=2026-11-27  appr=86%  pe=58.1
+  11. MU     yield= 3.19%  strike=880.0  prem=28.10  delta=-0.302  exp=2026-11-27  appr=802%  pe=12.6
+  12. COHR   yield= 3.16%  strike=215.0  prem=6.80  delta=-0.284  exp=2026-11-27  appr=144%  pe=57.6
+  13. WDC    yield= 3.14%  strike=365.0  prem=11.45  delta=-0.289  exp=2026-11-27  appr=684%  pe=13.9
+  14. HOOD   yield= 3.07%  strike=85.0  prem=2.61  delta=-0.276  exp=2026-11-27  appr=225%  pe=42.2
+  15. LRCX   yield= 3.04%  strike=240.0  prem=7.30  delta=-0.312  exp=2026-11-27  appr=238%  pe=37.9
+  16. VRT    yield= 2.93%  strike=230.0  prem=6.75  delta=-0.287  exp=2026-11-27  appr=119%  pe=46.0
+  17. VLO    yield= 2.92%  strike=360.0  prem=10.50  delta=-0.291  exp=2026-11-27  appr=215%  pe=8.7
+  18. NVDA   yield= 2.78%  strike=205.0  prem=5.70  delta=-0.327  exp=2026-11-27  appr=54%  pe=27.0
+  19. KLAC   yield= 2.77%  strike=155.0  prem=4.30  delta=-0.281  exp=2026-11-27  appr=146%  pe=42.0
+  20. JBL    yield= 2.70%  strike=270.0  prem=7.30  delta=-0.295  exp=2026-11-27  appr=133%  pe=29.5
