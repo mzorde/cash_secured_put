@@ -1,0 +1,26 @@
+Daily Stock Screener - run 2026-11-04
+Candidates scanned: 503
+Qualifying tickers: 31
+Reported (capped at 20): 20  (omitted 11)
+
+Ranked by premium yield (descending):
+   1. COHR   yield= 5.95%  strike=190.0  prem=11.30  delta=-0.313  exp=2026-12-04  appr=128%  pe=50.4
+   2. DELL   yield= 5.70%  strike=370.0  prem=21.10  delta=-0.294  exp=2026-12-04  appr=224%  pe=23.7
+   3. SMCI   yield= 5.46%  strike=28.0  prem=1.53  delta=-0.279  exp=2026-12-04  appr=21%  pe=9.6
+   4. HPE    yield= 5.35%  strike=49.0  prem=2.62  delta=-0.315  exp=2026-12-04  appr=178%  pe=27.4
+   5. SNDK   yield= 5.03%  strike=1030.0  prem=51.80  delta=-0.300  exp=2026-12-04  appr=3029%  pe=9.0
+   6. MRVL   yield= 4.87%  strike=155.0  prem=7.55  delta=-0.276  exp=2026-12-04  appr=105%  pe=56.6
+   7. TER    yield= 4.52%  strike=250.0  prem=11.30  delta=-0.320  exp=2026-12-04  appr=160%  pe=31.0
+   8. CIEN   yield= 4.52%  strike=270.0  prem=12.20  delta=-0.291  exp=2026-12-04  appr=375%  pe=67.1
+   9. TWLO   yield= 4.15%  strike=200.0  prem=8.30  delta=-0.317  exp=2026-12-04  appr=144%  pe=26.9
+  10. MU     yield= 4.01%  strike=795.0  prem=31.85  delta=-0.299  exp=2026-12-04  appr=745%  pe=11.5
+  11. VRT    yield= 3.91%  strike=220.0  prem=8.60  delta=-0.308  exp=2026-12-04  appr=123%  pe=44.1
+  12. AMAT   yield= 3.89%  strike=355.0  prem=13.80  delta=-0.309  exp=2026-12-04  appr=113%  pe=33.0
+  13. LRCX   yield= 3.81%  strike=215.0  prem=8.20  delta=-0.307  exp=2026-12-04  appr=216%  pe=34.4
+  14. KLAC   yield= 3.79%  strike=145.0  prem=5.50  delta=-0.302  exp=2026-12-04  appr=139%  pe=39.1
+  15. WDC    yield= 3.69%  strike=320.0  prem=11.80  delta=-0.299  exp=2026-12-04  appr=608%  pe=12.2
+  16. HUM    yield= 3.60%  strike=400.0  prem=14.40  delta=-0.352  exp=2026-12-04  appr=68%  pe=39.5
+  17. VLO    yield= 3.53%  strike=365.0  prem=12.90  delta=-0.313  exp=2026-12-04  appr=215%  pe=8.8
+  18. ANET   yield= 3.39%  strike=155.0  prem=5.25  delta=-0.273  exp=2026-12-04  appr=72%  pe=53.6
+  19. GEV    yield= 3.36%  strike=860.0  prem=28.90  delta=-0.302  exp=2026-12-04  appr=212%  pe=24.1
+  20. GNRC   yield= 3.18%  strike=195.0  prem=6.20  delta=-0.297  exp=2026-12-04  appr=23%  pe=41.3
