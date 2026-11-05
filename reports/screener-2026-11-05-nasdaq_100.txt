@@ -1,0 +1,21 @@
+Daily Stock Screener - run 2026-11-05
+Candidates scanned: 101
+Qualifying tickers: 16
+
+Ranked by premium yield (descending):
+   1. ALAB   yield= 5.63%  strike=205.0  prem=11.55  delta=-0.320  exp=2026-12-04  appr=133%  pe=88.2
+   2. SNDK   yield= 5.43%  strike=950.0  prem=51.60  delta=-0.303  exp=2026-12-04  appr=2782%  pe=8.3
+   3. MRVL   yield= 4.97%  strike=145.0  prem=7.20  delta=-0.285  exp=2026-12-04  appr=84%  pe=52.6
+   4. WDC    yield= 4.42%  strike=300.0  prem=13.25  delta=-0.309  exp=2026-12-04  appr=544%  pe=11.4
+   5. MU     yield= 3.83%  strike=740.0  prem=28.35  delta=-0.299  exp=2026-12-04  appr=658%  pe=10.7
+   6. TER    yield= 3.78%  strike=230.0  prem=8.70  delta=-0.291  exp=2026-12-04  appr=140%  pe=28.8
+   7. LRCX   yield= 3.68%  strike=205.0  prem=7.55  delta=-0.293  exp=2026-12-04  appr=194%  pe=33.0
+   8. AMAT   yield= 3.53%  strike=340.0  prem=12.00  delta=-0.291  exp=2026-12-04  appr=101%  pe=31.9
+   9. KLAC   yield= 3.43%  strike=140.0  prem=4.80  delta=-0.309  exp=2026-12-04  appr=127%  pe=37.5
+  10. NVDA   yield= 3.26%  strike=190.0  prem=6.20  delta=-0.318  exp=2026-12-04  appr=43%  pe=25.3
+  11. ADI    yield= 3.11%  strike=380.0  prem=11.80  delta=-0.295  exp=2026-12-04  appr=92%  pe=48.2
+  12. AVGO   yield= 2.81%  strike=310.0  prem=8.70  delta=-0.315  exp=2026-12-04  appr=90%  pe=41.6
+  13. CSCO   yield= 2.63%  strike=97.0  prem=2.55  delta=-0.288  exp=2026-12-04  appr=92%  pe=31.1
+  14. SHOP   yield= 2.60%  strike=144.0  prem=3.75  delta=-0.304  exp=2026-12-04  appr=92%  pe=93.9
+  15. ASML   yield= 2.55%  strike=1410.0  prem=35.90  delta=-0.309  exp=2026-12-04  appr=125%  pe=36.8
+  16. TXN    yield= 2.54%  strike=295.0  prem=7.50  delta=-0.309  exp=2026-12-04  appr=62%  pe=40.4
