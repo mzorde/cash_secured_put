@@ -1,0 +1,26 @@
+Daily Stock Screener - run 2026-11-06
+Candidates scanned: 503
+Qualifying tickers: 32
+Reported (capped at 20): 20  (omitted 12)
+
+Ranked by premium yield (descending):
+   1. CIEN   yield=11.22%  strike=245.0  prem=27.50  delta=-0.541  exp=2026-12-04  appr=237%  pe=51.6
+   2. MRVL   yield= 9.19%  strike=130.0  prem=11.95  delta=-0.403  exp=2026-12-04  appr=48%  pe=43.9
+   3. DELL   yield= 7.79%  strike=290.0  prem=22.60  delta=-0.322  exp=2026-12-04  appr=136%  pe=18.4
+   4. SNDK   yield= 7.29%  strike=720.0  prem=52.50  delta=-0.298  exp=2026-12-04  appr=2140%  pe=6.4
+   5. TER    yield= 7.24%  strike=210.0  prem=15.20  delta=-0.427  exp=2026-12-04  appr=96%  pe=24.5
+   6. SMCI   yield= 5.80%  strike=25.0  prem=1.45  delta=-0.320  exp=2026-12-04  appr=19%  pe=5.7
+   7. MU     yield= 5.74%  strike=600.0  prem=34.45  delta=-0.306  exp=2026-12-04  appr=490%  pe=8.8
+   8. HPE    yield= 5.55%  strike=40.0  prem=2.22  delta=-0.298  exp=2026-12-04  appr=117%  pe=22.8
+   9. JCI    yield= 5.37%  strike=136.0  prem=7.30  delta=-0.571  exp=2026-12-04  appr=65%  pe=27.9
+  10. COHR   yield= 5.16%  strike=155.0  prem=8.00  delta=-0.312  exp=2026-12-04  appr=71%  pe=35.1
+  11. ADI    yield= 5.14%  strike=350.0  prem=18.00  delta=-0.388  exp=2026-12-04  appr=64%  pe=42.9
+  12. WDC    yield= 4.98%  strike=245.0  prem=12.20  delta=-0.311  exp=2026-12-04  appr=409%  pe=9.4
+  13. GLW    yield= 4.68%  strike=95.0  prem=4.45  delta=-0.305  exp=2026-12-04  appr=121%  pe=41.9
+  14. KLAC   yield= 4.67%  strike=120.0  prem=5.60  delta=-0.311  exp=2026-12-04  appr=97%  pe=32.5
+  15. AMD    yield= 4.59%  strike=370.0  prem=17.00  delta=-0.295  exp=2026-12-04  appr=179%  pe=86.4
+  16. LRCX   yield= 4.59%  strike=170.0  prem=7.80  delta=-0.301  exp=2026-12-04  appr=145%  pe=27.6
+  17. NVDA   yield= 4.53%  strike=170.0  prem=7.70  delta=-0.318  exp=2026-12-04  appr=25%  pe=23.0
+  18. AMAT   yield= 4.31%  strike=290.0  prem=12.50  delta=-0.289  exp=2026-12-04  appr=73%  pe=27.5
+  19. ANET   yield= 4.30%  strike=150.0  prem=6.45  delta=-0.331  exp=2026-12-04  appr=50%  pe=42.7
+  20. VRT    yield= 4.25%  strike=160.0  prem=6.80  delta=-0.283  exp=2026-12-04  appr=47%  pe=33.0
