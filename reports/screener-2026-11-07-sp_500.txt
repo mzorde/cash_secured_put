@@ -1,0 +1,26 @@
+Daily Stock Screener - run 2026-11-07
+Candidates scanned: 503
+Qualifying tickers: 27
+Reported (capped at 20): 20  (omitted 7)
+
+Ranked by premium yield (descending):
+   1. CIEN   yield= 8.94%  strike=245.0  prem=21.90  delta=-0.454  exp=2026-12-04  appr=246%  pe=54.4
+   2. MRVL   yield= 6.58%  strike=130.0  prem=8.55  delta=-0.320  exp=2026-12-04  appr=51%  pe=46.4
+   3. TER    yield= 6.33%  strike=210.0  prem=13.30  delta=-0.384  exp=2026-12-04  appr=97%  pe=25.1
+   4. DELL   yield= 6.09%  strike=290.0  prem=17.65  delta=-0.320  exp=2026-12-04  appr=137%  pe=19.1
+   5. SNDK   yield= 5.75%  strike=720.0  prem=41.40  delta=-0.295  exp=2026-12-04  appr=2140%  pe=6.7
+   6. WDC    yield= 5.43%  strike=245.0  prem=13.30  delta=-0.332  exp=2026-12-04  appr=398%  pe=9.3
+   7. COHR   yield= 5.14%  strike=175.0  prem=9.00  delta=-0.300  exp=2026-12-04  appr=76%  pe=39.9
+   8. MU     yield= 5.14%  strike=630.0  prem=32.40  delta=-0.296  exp=2026-12-04  appr=512%  pe=9.3
+   9. HPE    yield= 5.05%  strike=40.0  prem=2.02  delta=-0.294  exp=2026-12-04  appr=115%  pe=23.1
+  10. AMAT   yield= 4.82%  strike=310.0  prem=14.95  delta=-0.324  exp=2026-12-04  appr=74%  pe=28.7
+  11. AMD    yield= 4.69%  strike=415.0  prem=19.45  delta=-0.306  exp=2026-12-04  appr=200%  pe=95.9
+  12. LRCX   yield= 4.57%  strike=185.0  prem=8.45  delta=-0.306  exp=2026-12-04  appr=157%  pe=29.9
+  13. KLAC   yield= 4.46%  strike=130.0  prem=5.80  delta=-0.328  exp=2026-12-04  appr=105%  pe=34.7
+  14. ADI    yield= 4.37%  strike=350.0  prem=15.30  delta=-0.368  exp=2026-12-04  appr=64%  pe=43.2
+  15. NVDA   yield= 4.11%  strike=175.0  prem=7.20  delta=-0.313  exp=2026-12-04  appr=26%  pe=23.6
+  16. JCI    yield= 3.82%  strike=136.0  prem=5.20  delta=-0.491  exp=2026-12-04  appr=68%  pe=28.6
+  17. GLW    yield= 3.79%  strike=95.0  prem=3.60  delta=-0.260  exp=2026-12-04  appr=127%  pe=43.0
+  18. CSCO   yield= 3.72%  strike=90.0  prem=3.35  delta=-0.357  exp=2026-12-04  appr=68%  pe=28.2
+  19. AVGO   yield= 3.58%  strike=275.0  prem=9.85  delta=-0.302  exp=2026-12-04  appr=63%  pe=37.5
+  20. GEV    yield= 3.54%  strike=720.0  prem=25.50  delta=-0.307  exp=2026-12-04  appr=130%  pe=20.3
