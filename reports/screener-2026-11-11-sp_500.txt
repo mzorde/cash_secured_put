@@ -1,0 +1,26 @@
+Daily Stock Screener - run 2026-11-11
+Candidates scanned: 503
+Qualifying tickers: 46
+Reported (capped at 20): 20  (omitted 26)
+
+Ranked by premium yield (descending):
+   1. DELL   yield= 7.13%  strike=310.0  prem=22.10  delta=-0.287  exp=2026-12-11  appr=157%  pe=19.4
+   2. SNDK   yield= 6.89%  strike=800.0  prem=55.10  delta=-0.296  exp=2026-12-11  appr=2363%  pe=6.9
+   3. FLEX   yield= 5.71%  strike=70.0  prem=4.00  delta=-0.317  exp=2026-12-18  appr=95%  pe=27.4
+   4. MRVL   yield= 5.71%  strike=140.0  prem=8.00  delta=-0.293  exp=2026-12-11  appr=68%  pe=50.8
+   5. CIEN   yield= 5.48%  strike=250.0  prem=13.70  delta=-0.322  exp=2026-12-11  appr=278%  pe=60.9
+   6. HPE    yield= 5.12%  strike=43.0  prem=2.20  delta=-0.294  exp=2026-12-11  appr=126%  pe=24.7
+   7. FIX    yield= 5.03%  strike=1010.0  prem=50.80  delta=-0.297  exp=2026-12-18  appr=138%  pe=23.9
+   8. GEV    yield= 5.02%  strike=775.0  prem=38.90  delta=-0.303  exp=2026-12-11  appr=138%  pe=20.9
+   9. SMCI   yield= 4.96%  strike=25.0  prem=1.24  delta=-0.281  exp=2026-12-11  appr=20%  pe=5.9
+  10. NTAP   yield= 4.94%  strike=160.0  prem=7.90  delta=-0.291  exp=2026-12-18  appr=50%  pe=24.8
+  11. VRT    yield= 4.84%  strike=185.0  prem=8.95  delta=-0.297  exp=2026-12-11  appr=58%  pe=36.3
+  12. MU     yield= 4.78%  strike=670.0  prem=32.00  delta=-0.306  exp=2026-12-11  appr=571%  pe=9.8
+  13. COHR   yield= 4.77%  strike=195.0  prem=9.30  delta=-0.300  exp=2026-12-11  appr=105%  pe=44.4
+  14. AMAT   yield= 4.45%  strike=345.0  prem=15.35  delta=-0.306  exp=2026-12-11  appr=101%  pe=32.1
+  15. TER    yield= 4.40%  strike=225.0  prem=9.90  delta=-0.307  exp=2026-12-11  appr=127%  pe=28.2
+  16. MPWR   yield= 4.40%  strike=1250.0  prem=55.00  delta=-0.300  exp=2026-12-18  appr=113%  pe=74.4
+  17. KEYS   yield= 4.22%  strike=270.0  prem=11.40  delta=-0.320  exp=2026-12-18  appr=76%  pe=39.4
+  18. LRCX   yield= 4.10%  strike=205.0  prem=8.40  delta=-0.294  exp=2026-12-11  appr=196%  pe=33.1
+  19. WDC    yield= 4.08%  strike=265.0  prem=10.80  delta=-0.303  exp=2026-12-11  appr=471%  pe=10.2
+  20. HSIC   yield= 3.89%  strike=85.0  prem=3.31  delta=-0.339  exp=2026-12-18  appr=30%  pe=24.3
