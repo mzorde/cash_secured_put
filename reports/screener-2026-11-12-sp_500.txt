@@ -1,0 +1,26 @@
+Daily Stock Screener - run 2026-11-12
+Candidates scanned: 503
+Qualifying tickers: 46
+Reported (capped at 20): 20  (omitted 26)
+
+Ranked by premium yield (descending):
+   1. CIEN   yield= 5.78%  strike=270.0  prem=15.60  delta=-0.310  exp=2026-12-11  appr=317%  pe=66.2
+   2. DELL   yield= 5.57%  strike=340.0  prem=18.95  delta=-0.298  exp=2026-12-11  appr=182%  pe=21.7
+   3. SNDK   yield= 5.52%  strike=890.0  prem=49.10  delta=-0.301  exp=2026-12-11  appr=2616%  pe=7.8
+   4. COHR   yield= 5.21%  strike=215.0  prem=11.20  delta=-0.306  exp=2026-12-11  appr=125%  pe=44.4
+   5. MRVL   yield= 5.06%  strike=155.0  prem=7.85  delta=-0.303  exp=2026-12-11  appr=83%  pe=55.5
+   6. TER    yield= 4.69%  strike=245.0  prem=11.50  delta=-0.309  exp=2026-12-11  appr=147%  pe=30.5
+   7. HPE    yield= 4.61%  strike=46.0  prem=2.12  delta=-0.301  exp=2026-12-11  appr=142%  pe=25.9
+   8. FIX    yield= 4.56%  strike=1080.0  prem=49.30  delta=-0.311  exp=2026-12-18  appr=152%  pe=25.1
+   9. NTAP   yield= 4.47%  strike=170.0  prem=7.60  delta=-0.310  exp=2026-12-18  appr=57%  pe=24.8
+  10. SMCI   yield= 4.39%  strike=28.0  prem=1.23  delta=-0.306  exp=2026-12-11  appr=40%  pe=6.4
+  11. MPWR   yield= 4.24%  strike=1360.0  prem=57.70  delta=-0.294  exp=2026-12-18  appr=133%  pe=81.1
+  12. MU     yield= 4.23%  strike=750.0  prem=31.70  delta=-0.298  exp=2026-12-11  appr=683%  pe=9.8
+  13. WDC    yield= 3.97%  strike=290.0  prem=11.50  delta=-0.312  exp=2026-12-11  appr=551%  pe=10.2
+  14. HSIC   yield= 3.89%  strike=85.0  prem=3.31  delta=-0.354  exp=2026-12-18  appr=31%  pe=24.2
+  15. HOOD   yield= 3.85%  strike=78.0  prem=3.00  delta=-0.299  exp=2026-12-11  appr=156%  pe=39.0
+  16. CNP    yield= 3.82%  strike=38.0  prem=1.45  delta=-0.323  exp=2026-12-18  appr=41%  pe=23.7
+  17. ILMN   yield= 3.80%  strike=200.0  prem=7.60  delta=-0.318  exp=2026-12-18  appr=44%  pe=36.6
+  18. KEYS   yield= 3.71%  strike=280.0  prem=10.40  delta=-0.281  exp=2026-12-18  appr=90%  pe=41.4
+  19. AMAT   yield= 3.67%  strike=365.0  prem=13.40  delta=-0.294  exp=2026-12-11  appr=115%  pe=32.1
+  20. LRCX   yield= 3.66%  strike=220.0  prem=8.05  delta=-0.307  exp=2026-12-11  appr=216%  pe=35.2
