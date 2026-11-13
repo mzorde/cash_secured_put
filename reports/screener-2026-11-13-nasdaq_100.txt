@@ -1,0 +1,20 @@
+Daily Stock Screener - run 2026-11-13
+Candidates scanned: 101
+Qualifying tickers: 15
+
+Ranked by premium yield (descending):
+   1. SNDK   yield= 5.81%  strike=850.0  prem=49.40  delta=-0.299  exp=2026-12-11  appr=2504%  pe=7.5
+   2. MRVL   yield= 5.17%  strike=150.0  prem=7.75  delta=-0.296  exp=2026-12-11  appr=83%  pe=54.1
+   3. TER    yield= 4.98%  strike=245.0  prem=12.20  delta=-0.318  exp=2026-12-11  appr=150%  pe=30.3
+   4. MPWR   yield= 4.50%  strike=1340.0  prem=60.30  delta=-0.307  exp=2026-12-18  appr=144%  pe=79.4
+   5. ALAB   yield= 4.32%  strike=205.0  prem=8.85  delta=-0.285  exp=2026-12-11  appr=155%  pe=90.0
+   6. MU     yield= 4.30%  strike=740.0  prem=31.80  delta=-0.302  exp=2026-12-11  appr=703%  pe=10.7
+   7. AMAT   yield= 3.83%  strike=355.0  prem=13.60  delta=-0.310  exp=2026-12-11  appr=112%  pe=32.9
+   8. LRCX   yield= 3.72%  strike=215.0  prem=8.00  delta=-0.287  exp=2026-12-11  appr=221%  pe=34.8
+   9. AVGO   yield= 3.62%  strike=340.0  prem=12.30  delta=-0.298  exp=2026-12-11  appr=114%  pe=46.5
+  10. KLAC   yield= 3.45%  strike=145.0  prem=5.00  delta=-0.283  exp=2026-12-11  appr=148%  pe=39.4
+  11. WDC    yield= 3.30%  strike=285.0  prem=9.40  delta=-0.290  exp=2026-12-11  appr=560%  pe=10.9
+  12. NXPI   yield= 3.00%  strike=250.0  prem=7.50  delta=-0.307  exp=2026-12-18  appr=24%  pe=21.0
+  13. TXN    yield= 2.97%  strike=300.0  prem=8.90  delta=-0.347  exp=2026-12-11  appr=60%  pe=40.5
+  14. QCOM   yield= 2.88%  strike=165.0  prem=4.75  delta=-0.279  exp=2026-12-11  appr=15%  pe=13.9
+  15. ADI    yield= 2.74%  strike=380.0  prem=10.40  delta=-0.276  exp=2026-12-11  appr=98%  pe=48.6

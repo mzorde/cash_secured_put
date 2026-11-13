@@ -1,0 +1,26 @@
+Daily Stock Screener - run 2026-11-13
+Candidates scanned: 503
+Qualifying tickers: 46
+Reported (capped at 20): 20  (omitted 26)
+
+Ranked by premium yield (descending):
+   1. SMCI   yield= 6.40%  strike=25.0  prem=1.60  delta=-0.327  exp=2026-12-11  appr=33%  pe=5.7
+   2. SNDK   yield= 5.81%  strike=850.0  prem=49.40  delta=-0.299  exp=2026-12-11  appr=2504%  pe=7.5
+   3. DELL   yield= 5.52%  strike=335.0  prem=18.50  delta=-0.290  exp=2026-12-11  appr=184%  pe=21.6
+   4. HPE    yield= 5.35%  strike=46.0  prem=2.46  delta=-0.307  exp=2026-12-11  appr=140%  pe=25.9
+   5. MRVL   yield= 5.17%  strike=150.0  prem=7.75  delta=-0.296  exp=2026-12-11  appr=83%  pe=54.1
+   6. TER    yield= 4.98%  strike=245.0  prem=12.20  delta=-0.318  exp=2026-12-11  appr=150%  pe=30.3
+   7. FLEX   yield= 4.57%  strike=70.0  prem=3.20  delta=-0.272  exp=2026-12-18  appr=106%  pe=28.1
+   8. MPWR   yield= 4.50%  strike=1340.0  prem=60.30  delta=-0.307  exp=2026-12-18  appr=144%  pe=79.4
+   9. NTAP   yield= 4.41%  strike=170.0  prem=7.50  delta=-0.294  exp=2026-12-18  appr=61%  pe=26.2
+  10. MU     yield= 4.30%  strike=740.0  prem=31.80  delta=-0.302  exp=2026-12-11  appr=703%  pe=10.7
+  11. COHR   yield= 4.24%  strike=210.0  prem=8.90  delta=-0.289  exp=2026-12-11  appr=126%  pe=48.0
+  12. FIX    yield= 4.06%  strike=1040.0  prem=42.20  delta=-0.294  exp=2026-12-18  appr=154%  pe=24.4
+  13. CIEN   yield= 4.04%  strike=265.0  prem=10.70  delta=-0.301  exp=2026-12-11  appr=312%  pe=65.8
+  14. HOOD   yield= 3.95%  strike=76.0  prem=3.00  delta=-0.310  exp=2026-12-11  appr=155%  pe=37.5
+  15. AMAT   yield= 3.83%  strike=355.0  prem=13.60  delta=-0.310  exp=2026-12-11  appr=112%  pe=32.9
+  16. CNP    yield= 3.82%  strike=38.0  prem=1.45  delta=-0.325  exp=2026-12-18  appr=41%  pe=23.5
+  17. LRCX   yield= 3.72%  strike=215.0  prem=8.00  delta=-0.287  exp=2026-12-11  appr=221%  pe=34.8
+  18. GLW    yield= 3.68%  strike=110.0  prem=4.05  delta=-0.284  exp=2026-12-11  appr=161%  pe=48.4
+  19. KEYS   yield= 3.64%  strike=280.0  prem=10.20  delta=-0.282  exp=2026-12-18  appr=93%  pe=41.2
+  20. ILMN   yield= 3.64%  strike=195.0  prem=7.10  delta=-0.299  exp=2026-12-18  appr=43%  pe=36.1
