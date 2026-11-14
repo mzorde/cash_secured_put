@@ -1,0 +1,26 @@
+Daily Stock Screener - run 2026-11-14
+Candidates scanned: 503
+Qualifying tickers: 40
+Reported (capped at 20): 20  (omitted 20)
+
+Ranked by premium yield (descending):
+   1. DELL   yield= 6.02%  strike=310.0  prem=18.65  delta=-0.291  exp=2026-12-11  appr=164%  pe=20.0
+   2. FLEX   yield= 5.86%  strike=70.0  prem=4.10  delta=-0.333  exp=2026-12-18  appr=99%  pe=27.0
+   3. MRVL   yield= 5.83%  strike=145.0  prem=8.45  delta=-0.319  exp=2026-12-11  appr=74%  pe=51.6
+   4. SNDK   yield= 5.66%  strike=800.0  prem=45.30  delta=-0.295  exp=2026-12-11  appr=2358%  pe=7.1
+   5. COHR   yield= 5.20%  strike=200.0  prem=10.40  delta=-0.306  exp=2026-12-11  appr=118%  pe=45.2
+   6. HPE    yield= 5.16%  strike=44.0  prem=2.27  delta=-0.297  exp=2026-12-11  appr=137%  pe=24.9
+   7. CIEN   yield= 4.98%  strike=255.0  prem=12.70  delta=-0.307  exp=2026-12-11  appr=302%  pe=62.8
+   8. WDC    yield= 4.46%  strike=270.0  prem=12.05  delta=-0.298  exp=2026-12-11  appr=522%  pe=10.4
+   9. SMCI   yield= 4.29%  strike=24.0  prem=1.03  delta=-0.275  exp=2026-12-11  appr=49%  pe=5.7
+  10. FIX    yield= 4.03%  strike=1020.0  prem=41.10  delta=-0.288  exp=2026-12-18  appr=155%  pe=24.0
+  11. MU     yield= 4.02%  strike=720.0  prem=28.95  delta=-0.298  exp=2026-12-11  appr=689%  pe=10.5
+  12. AVGO   yield= 3.98%  strike=325.0  prem=12.95  delta=-0.310  exp=2026-12-11  appr=107%  pe=44.3
+  13. MPWR   yield= 3.95%  strike=1280.0  prem=50.50  delta=-0.292  exp=2026-12-18  appr=145%  pe=76.2
+  14. NTAP   yield= 3.94%  strike=165.0  prem=6.50  delta=-0.286  exp=2026-12-18  appr=59%  pe=25.6
+  15. KEYS   yield= 3.89%  strike=280.0  prem=10.90  delta=-0.319  exp=2026-12-18  appr=94%  pe=40.3
+  16. GLW    yield= 3.81%  strike=105.0  prem=4.00  delta=-0.286  exp=2026-12-11  appr=150%  pe=46.2
+  17. LRCX   yield= 3.79%  strike=210.0  prem=7.95  delta=-0.303  exp=2026-12-11  appr=207%  pe=33.7
+  18. VRT    yield= 3.65%  strike=185.0  prem=6.75  delta=-0.279  exp=2026-12-11  appr=67%  pe=37.8
+  19. FITB   yield= 3.59%  strike=46.0  prem=1.65  delta=-0.218  exp=2026-12-18  appr=24%  pe=18.3
+  20. KLAC   yield= 3.43%  strike=140.0  prem=4.80  delta=-0.285  exp=2026-12-11  appr=140%  pe=38.2

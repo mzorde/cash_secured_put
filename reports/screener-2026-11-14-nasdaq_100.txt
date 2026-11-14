@@ -1,0 +1,18 @@
+Daily Stock Screener - run 2026-11-14
+Candidates scanned: 101
+Qualifying tickers: 13
+
+Ranked by premium yield (descending):
+   1. MRVL   yield= 5.83%  strike=145.0  prem=8.45  delta=-0.319  exp=2026-12-11  appr=74%  pe=51.6
+   2. SNDK   yield= 5.66%  strike=800.0  prem=45.30  delta=-0.295  exp=2026-12-11  appr=2358%  pe=7.1
+   3. ALAB   yield= 5.15%  strike=200.0  prem=10.30  delta=-0.295  exp=2026-12-11  appr=151%  pe=87.7
+   4. WDC    yield= 4.46%  strike=270.0  prem=12.05  delta=-0.298  exp=2026-12-11  appr=522%  pe=10.4
+   5. MU     yield= 4.02%  strike=720.0  prem=28.95  delta=-0.298  exp=2026-12-11  appr=689%  pe=10.5
+   6. AVGO   yield= 3.98%  strike=325.0  prem=12.95  delta=-0.310  exp=2026-12-11  appr=107%  pe=44.3
+   7. MPWR   yield= 3.95%  strike=1280.0  prem=50.50  delta=-0.292  exp=2026-12-18  appr=145%  pe=76.2
+   8. LRCX   yield= 3.79%  strike=210.0  prem=7.95  delta=-0.303  exp=2026-12-11  appr=207%  pe=33.7
+   9. KLAC   yield= 3.43%  strike=140.0  prem=4.80  delta=-0.285  exp=2026-12-11  appr=140%  pe=38.2
+  10. TER    yield= 3.35%  strike=230.0  prem=7.70  delta=-0.302  exp=2026-12-11  appr=136%  pe=28.7
+  11. AMAT   yield= 3.16%  strike=345.0  prem=10.90  delta=-0.298  exp=2026-12-11  appr=102%  pe=29.4
+  12. NXPI   yield= 3.08%  strike=250.0  prem=7.70  delta=-0.322  exp=2026-12-18  appr=23%  pe=20.9
+  13. ADI    yield= 3.04%  strike=375.0  prem=11.40  delta=-0.307  exp=2026-12-11  appr=93%  pe=47.3
