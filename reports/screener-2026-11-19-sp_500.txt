@@ -1,0 +1,26 @@
+Daily Stock Screener - run 2026-11-19
+Candidates scanned: 503
+Qualifying tickers: 42
+Reported (capped at 20): 20  (omitted 22)
+
+Ranked by premium yield (descending):
+   1. DELL   yield= 6.48%  strike=280.0  prem=18.15  delta=-0.287  exp=2026-12-18  appr=137%  pe=18.2
+   2. COHR   yield= 6.41%  strike=195.0  prem=12.50  delta=-0.315  exp=2026-12-18  appr=104%  pe=43.6
+   3. MRVL   yield= 5.96%  strike=130.0  prem=7.75  delta=-0.281  exp=2026-12-18  appr=64%  pe=47.9
+   4. HPE    yield= 5.52%  strike=42.0  prem=2.32  delta=-0.307  exp=2026-12-18  appr=122%  pe=23.6
+   5. CIEN   yield= 5.50%  strike=240.0  prem=13.20  delta=-0.301  exp=2026-12-18  appr=297%  pe=59.6
+   6. MU     yield= 5.39%  strike=650.0  prem=35.05  delta=-0.309  exp=2026-12-18  appr=625%  pe=9.6
+   7. WDC    yield= 5.31%  strike=260.0  prem=13.80  delta=-0.284  exp=2026-12-18  appr=487%  pe=10.0
+   8. NTAP   yield= 5.25%  strike=160.0  prem=8.40  delta=-0.323  exp=2026-12-18  appr=46%  pe=24.4
+   9. AMAT   yield= 4.94%  strike=330.0  prem=16.30  delta=-0.324  exp=2026-12-18  appr=111%  pe=27.7
+  10. VRT    yield= 4.89%  strike=180.0  prem=8.80  delta=-0.308  exp=2026-12-18  appr=38%  pe=36.4
+  11. GLW    yield= 4.75%  strike=100.0  prem=4.75  delta=-0.305  exp=2026-12-18  appr=135%  pe=43.8
+  12. LRCX   yield= 4.59%  strike=195.0  prem=8.95  delta=-0.298  exp=2026-12-18  appr=206%  pe=31.5
+  13. MPWR   yield= 4.54%  strike=1210.0  prem=54.90  delta=-0.304  exp=2026-12-18  appr=127%  pe=72.2
+  14. KLAC   yield= 4.48%  strike=134.0  prem=6.00  delta=-0.305  exp=2026-12-18  appr=139%  pe=36.2
+  15. FIX    yield= 4.39%  strike=1060.0  prem=46.50  delta=-0.311  exp=2026-12-18  appr=142%  pe=24.6
+  16. AVGO   yield= 4.33%  strike=330.0  prem=14.30  delta=-0.308  exp=2026-12-18  appr=118%  pe=45.2
+  17. FLEX   yield= 4.29%  strike=70.0  prem=3.00  delta=-0.334  exp=2026-12-18  appr=100%  pe=26.9
+  18. KEYS   yield= 4.15%  strike=270.0  prem=11.20  delta=-0.331  exp=2026-12-18  appr=88%  pe=38.5
+  19. TER    yield= 4.05%  strike=210.0  prem=8.50  delta=-0.276  exp=2026-12-18  appr=130%  pe=27.0
+  20. BBY    yield= 3.79%  strike=95.0  prem=3.60  delta=-0.326  exp=2026-12-18  appr=28%  pe=16.4
