@@ -1,0 +1,26 @@
+Daily Stock Screener - run 2026-11-21
+Candidates scanned: 503
+Qualifying tickers: 50
+Reported (capped at 20): 20  (omitted 30)
+
+Ranked by premium yield (descending):
+   1. REGN   yield=46.70%  strike=1000.0  prem=467.00  delta=-0.302  exp=2026-12-18  appr=25%  pe=20.4
+   2. SNDK   yield=15.04%  strike=83.75  prem=12.60  delta=-0.295  exp=2026-12-18  appr=1998%  pe=5.1
+   3. MRVL   yield= 8.45%  strike=110.0  prem=9.30  delta=-0.308  exp=2026-12-18  appr=32%  pe=40.2
+   4. DELL   yield= 8.40%  strike=250.0  prem=21.00  delta=-0.307  exp=2026-12-18  appr=106%  pe=16.2
+   5. COHR   yield= 7.58%  strike=165.0  prem=12.50  delta=-0.288  exp=2026-12-18  appr=77%  pe=38.8
+   6. AMD    yield= 6.93%  strike=380.0  prem=26.35  delta=-0.293  exp=2026-12-18  appr=209%  pe=98.2
+   7. MU     yield= 6.77%  strike=530.0  prem=35.90  delta=-0.290  exp=2026-12-18  appr=482%  pe=8.0
+   8. AMAT   yield= 6.36%  strike=280.0  prem=17.80  delta=-0.323  exp=2026-12-18  appr=75%  pe=24.0
+   9. HPE    yield= 6.35%  strike=37.0  prem=2.35  delta=-0.302  exp=2026-12-18  appr=97%  pe=21.1
+  10. LRCX   yield= 6.11%  strike=166.0  prem=10.15  delta=-0.300  exp=2026-12-18  appr=154%  pe=27.3
+  11. WDC    yield= 6.04%  strike=230.0  prem=13.90  delta=-0.278  exp=2026-12-18  appr=427%  pe=9.2
+  12. GLW    yield= 5.76%  strike=85.0  prem=4.90  delta=-0.290  exp=2026-12-18  appr=103%  pe=38.2
+  13. AVGO   yield= 5.75%  strike=275.0  prem=15.80  delta=-0.290  exp=2026-12-18  appr=89%  pe=38.9
+  14. VRT    yield= 5.70%  strike=150.0  prem=8.55  delta=-0.290  exp=2026-12-18  appr=18%  pe=31.1
+  15. HOOD   yield= 5.55%  strike=55.0  prem=3.05  delta=-0.268  exp=2026-12-18  appr=77%  pe=31.6
+  16. TER    yield= 5.46%  strike=185.0  prem=10.10  delta=-0.304  exp=2026-12-18  appr=95%  pe=23.5
+  17. MPWR   yield= 5.40%  strike=1040.0  prem=56.20  delta=-0.301  exp=2026-12-18  appr=103%  pe=62.6
+  18. CIEN   yield= 5.33%  strike=210.0  prem=11.20  delta=-0.300  exp=2026-12-18  appr=244%  pe=52.4
+  19. NTAP   yield= 5.24%  strike=145.0  prem=7.60  delta=-0.313  exp=2026-12-18  appr=29%  pe=22.2
+  20. TWLO   yield= 5.12%  strike=160.0  prem=8.20  delta=-0.319  exp=2026-12-18  appr=69%  pe=21.6
