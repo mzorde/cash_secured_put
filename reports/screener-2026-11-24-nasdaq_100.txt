@@ -1,0 +1,18 @@
+Daily Stock Screener - run 2026-11-24
+Candidates scanned: 101
+Qualifying tickers: 13
+
+Ranked by premium yield (descending):
+   1. IDXX   yield=23.80%  strike=740.0  prem=176.10  delta=-0.448  exp=2026-12-18  appr=60%  pe=46.3
+   2. TER    yield=13.04%  strike=220.0  prem=28.69  delta=-0.000  exp=2026-12-24  appr=112%  pe=26.8
+   3. LIN    yield=12.39%  strike=545.0  prem=67.50  delta=-0.529  exp=2026-12-18  appr=16%  pe=33.4
+   4. ALAB   yield= 8.19%  strike=195.0  prem=15.98  delta=-0.000  exp=2026-12-24  appr=107%  pe=87.8
+   5. AMD    yield= 7.47%  strike=440.0  prem=32.89  delta=-0.000  exp=2026-12-24  appr=221%  pe=96.9
+   6. WDC    yield= 7.36%  strike=280.0  prem=20.60  delta=-0.000  exp=2026-12-24  appr=469%  pe=9.2
+   7. AVGO   yield= 7.18%  strike=305.0  prem=21.90  delta=-0.000  exp=2026-12-24  appr=94%  pe=40.0
+   8. KLAC   yield= 5.65%  strike=110.0  prem=6.22  delta=-0.000  exp=2026-12-24  appr=129%  pe=31.8
+   9. MU     yield= 5.18%  strike=620.0  prem=32.13  delta=-0.000  exp=2026-12-24  appr=581%  pe=8.0
+  10. ASML   yield= 5.05%  strike=1340.0  prem=67.70  delta=-0.000  exp=2026-12-24  appr=105%  pe=34.0
+  11. NVDA   yield= 4.84%  strike=155.0  prem=7.50  delta=-0.000  exp=2026-12-24  appr=22%  pe=13.5
+  12. LRCX   yield= 4.54%  strike=185.0  prem=8.40  delta=-0.000  exp=2026-12-24  appr=189%  pe=31.3
+  13. AMAT   yield= 3.94%  strike=305.0  prem=12.03  delta=-0.000  exp=2026-12-24  appr=102%  pe=24.0

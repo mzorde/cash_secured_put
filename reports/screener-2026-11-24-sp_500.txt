@@ -1,0 +1,26 @@
+Daily Stock Screener - run 2026-11-24
+Candidates scanned: 503
+Qualifying tickers: 41
+Reported (capped at 20): 20  (omitted 21)
+
+Ranked by premium yield (descending):
+   1. BDX    yield=25.96%  strike=235.0  prem=61.00  delta=-0.440  exp=2026-12-18  appr=27%  pe=42.1
+   2. IDXX   yield=23.80%  strike=740.0  prem=176.10  delta=-0.448  exp=2026-12-18  appr=60%  pe=46.3
+   3. MCK    yield=20.42%  strike=1180.0  prem=241.00  delta=-0.544  exp=2026-12-18  appr=71%  pe=27.0
+   4. CINF   yield=13.75%  strike=200.0  prem=27.50  delta=-0.525  exp=2026-12-18  appr=23%  pe=11.0
+   5. TER    yield=13.04%  strike=220.0  prem=28.69  delta=-0.000  exp=2026-12-24  appr=112%  pe=26.8
+   6. LIN    yield=12.39%  strike=545.0  prem=67.50  delta=-0.529  exp=2026-12-18  appr=16%  pe=33.4
+   7. COHR   yield= 9.19%  strike=210.0  prem=19.30  delta=-0.000  exp=2026-12-24  appr=116%  pe=44.7
+   8. DELL   yield= 8.28%  strike=315.0  prem=26.07  delta=-0.000  exp=2026-12-24  appr=139%  pe=19.5
+   9. GEV    yield= 8.17%  strike=710.0  prem=58.00  delta=-0.000  exp=2026-12-24  appr=131%  pe=19.9
+  10. CIEN   yield= 7.67%  strike=205.0  prem=15.73  delta=-0.000  exp=2026-12-24  appr=277%  pe=59.2
+  11. DD     yield= 7.60%  strike=50.0  prem=3.80  delta=-0.051  exp=2026-12-18  appr=48%  pe=52.7
+  12. AMD    yield= 7.47%  strike=440.0  prem=32.89  delta=-0.000  exp=2026-12-24  appr=221%  pe=96.9
+  13. WDC    yield= 7.36%  strike=280.0  prem=20.60  delta=-0.000  exp=2026-12-24  appr=469%  pe=9.2
+  14. PWR    yield= 7.29%  strike=240.0  prem=17.50  delta=-0.060  exp=2026-12-18  appr=78%  pe=50.6
+  15. AVGO   yield= 7.18%  strike=305.0  prem=21.90  delta=-0.000  exp=2026-12-24  appr=94%  pe=40.0
+  16. TDY    yield= 6.25%  strike=640.0  prem=40.00  delta=-0.501  exp=2026-12-18  appr=32%  pe=27.4
+  17. STLD   yield= 5.93%  strike=135.0  prem=8.00  delta=-0.125  exp=2026-12-18  appr=53%  pe=15.2
+  18. HPE    yield= 5.81%  strike=43.0  prem=2.50  delta=-0.001  exp=2026-12-24  appr=126%  pe=24.8
+  19. HOOD   yield= 5.70%  strike=64.0  prem=3.65  delta=-0.001  exp=2026-12-24  appr=78%  pe=31.0
+  20. KLAC   yield= 5.65%  strike=110.0  prem=6.22  delta=-0.000  exp=2026-12-24  appr=129%  pe=31.8
