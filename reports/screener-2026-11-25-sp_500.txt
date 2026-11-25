@@ -1,0 +1,26 @@
+Daily Stock Screener - run 2026-11-25
+Candidates scanned: 503
+Qualifying tickers: 34
+Reported (capped at 20): 20  (omitted 14)
+
+Ranked by premium yield (descending):
+   1. SNDK   yield=15.65%  strike=85.0  prem=13.30  delta=-0.306  exp=2026-12-24  appr=1998%  pe=5.0
+   2. MRVL   yield= 7.71%  strike=120.0  prem=9.25  delta=-0.318  exp=2026-12-24  appr=43%  pe=43.3
+   3. DELL   yield= 6.94%  strike=265.0  prem=18.40  delta=-0.298  exp=2026-12-24  appr=111%  pe=17.2
+   4. COHR   yield= 6.46%  strike=175.0  prem=11.30  delta=-0.291  exp=2026-12-24  appr=97%  pe=44.7
+   5. AMD    yield= 6.09%  strike=375.0  prem=22.85  delta=-0.301  exp=2026-12-24  appr=193%  pe=88.3
+   6. MU     yield= 6.09%  strike=570.0  prem=34.70  delta=-0.300  exp=2026-12-24  appr=506%  pe=9.5
+   7. WDC    yield= 5.80%  strike=250.0  prem=14.50  delta=-0.312  exp=2026-12-24  appr=425%  pe=10.5
+   8. CIEN   yield= 5.72%  strike=215.0  prem=12.30  delta=-0.304  exp=2026-12-24  appr=241%  pe=47.4
+   9. VRT    yield= 5.56%  strike=160.0  prem=8.90  delta=-0.315  exp=2026-12-24  appr=32%  pe=32.5
+  10. GLW    yield= 5.37%  strike=95.0  prem=5.10  delta=-0.330  exp=2026-12-24  appr=117%  pe=41.2
+  11. LRCX   yield= 5.03%  strike=180.0  prem=9.05  delta=-0.307  exp=2026-12-24  appr=170%  pe=29.2
+  12. TER    yield= 5.03%  strike=195.0  prem=9.80  delta=-0.314  exp=2026-12-24  appr=94%  pe=24.5
+  13. KLAC   yield= 4.92%  strike=120.0  prem=5.90  delta=-0.280  exp=2026-12-24  appr=110%  pe=29.1
+  14. HPE    yield= 4.86%  strike=37.0  prem=1.80  delta=-0.312  exp=2026-12-24  appr=89%  pe=20.7
+  15. AVGO   yield= 4.62%  strike=275.0  prem=12.70  delta=-0.291  exp=2026-12-24  appr=86%  pe=38.5
+  16. AMAT   yield= 4.46%  strike=295.0  prem=13.15  delta=-0.291  exp=2026-12-24  appr=88%  pe=27.5
+  17. MPWR   yield= 4.39%  strike=1090.0  prem=47.90  delta=-0.292  exp=2026-12-18  appr=101%  pe=65.2
+  18. FLEX   yield= 4.33%  strike=60.0  prem=2.60  delta=-0.280  exp=2026-12-18  appr=62%  pe=23.9
+  19. GEV    yield= 4.09%  strike=670.0  prem=27.40  delta=-0.307  exp=2026-12-24  appr=120%  pe=18.9
+  20. FIX    yield= 3.98%  strike=1020.0  prem=40.60  delta=-0.307  exp=2026-12-18  appr=123%  pe=23.7
