@@ -1,0 +1,26 @@
+Daily Stock Screener - run 2026-11-26
+Candidates scanned: 503
+Qualifying tickers: 27
+Reported (capped at 20): 20  (omitted 7)
+
+Ranked by premium yield (descending):
+   1. SNDK   yield=18.82%  strike=85.0  prem=16.00  delta=-0.312  exp=2026-12-24  appr=1998%  pe=4.7
+   2. MRVL   yield= 7.79%  strike=120.0  prem=9.35  delta=-0.323  exp=2026-12-24  appr=41%  pe=43.1
+   3. COHR   yield= 6.91%  strike=175.0  prem=12.10  delta=-0.296  exp=2026-12-24  appr=94%  pe=40.6
+   4. DELL   yield= 6.35%  strike=270.0  prem=17.15  delta=-0.306  exp=2026-12-24  appr=116%  pe=17.3
+   5. AMD    yield= 6.34%  strike=370.0  prem=23.45  delta=-0.309  exp=2026-12-24  appr=195%  pe=86.8
+   6. MU     yield= 6.29%  strike=540.0  prem=33.95  delta=-0.294  exp=2026-12-24  appr=494%  pe=8.5
+   7. LRCX   yield= 6.15%  strike=170.0  prem=10.45  delta=-0.318  exp=2026-12-24  appr=158%  pe=27.6
+   8. CIEN   yield= 6.00%  strike=215.0  prem=12.90  delta=-0.290  exp=2026-12-24  appr=243%  pe=48.1
+   9. TER    yield= 5.63%  strike=190.0  prem=10.70  delta=-0.293  exp=2026-12-24  appr=96%  pe=24.4
+  10. AMAT   yield= 5.37%  strike=285.0  prem=15.30  delta=-0.308  exp=2026-12-24  appr=82%  pe=25.7
+  11. WDC    yield= 4.98%  strike=245.0  prem=12.20  delta=-0.293  exp=2026-12-24  appr=396%  pe=9.6
+  12. AVGO   yield= 4.89%  strike=275.0  prem=13.45  delta=-0.294  exp=2026-12-24  appr=86%  pe=38.4
+  13. KLAC   yield= 4.83%  strike=120.0  prem=5.80  delta=-0.274  exp=2026-12-24  appr=115%  pe=29.2
+  14. VRT    yield= 4.75%  strike=160.0  prem=7.60  delta=-0.313  exp=2026-12-24  appr=32%  pe=32.4
+  15. HPE    yield= 4.73%  strike=37.0  prem=1.75  delta=-0.288  exp=2026-12-24  appr=93%  pe=13.3
+  16. GLW    yield= 4.56%  strike=90.0  prem=4.10  delta=-0.276  exp=2026-12-24  appr=114%  pe=40.6
+  17. JBL    yield= 4.10%  strike=210.0  prem=8.60  delta=-0.299  exp=2026-12-24  appr=72%  pe=23.3
+  18. ANET   yield= 4.07%  strike=150.0  prem=6.10  delta=-0.284  exp=2026-12-24  appr=61%  pe=44.0
+  19. GEV    yield= 4.05%  strike=660.0  prem=26.70  delta=-0.296  exp=2026-12-24  appr=112%  pe=18.8
+  20. TXN    yield= 3.56%  strike=250.0  prem=8.90  delta=-0.291  exp=2026-12-24  appr=42%  pe=33.5
