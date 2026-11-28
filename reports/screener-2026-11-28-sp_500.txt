@@ -1,0 +1,26 @@
+Daily Stock Screener - run 2026-11-28
+Candidates scanned: 503
+Qualifying tickers: 32
+Reported (capped at 20): 20  (omitted 12)
+
+Ranked by premium yield (descending):
+   1. SNDK   yield=12.06%  strike=83.75  prem=10.10  delta=-0.296  exp=2026-12-31  appr=1998%  pe=5.5
+   2. CIEN   yield= 7.83%  strike=230.0  prem=18.00  delta=-0.304  exp=2026-12-31  appr=268%  pe=50.8
+   3. COHR   yield= 7.10%  strike=200.0  prem=14.20  delta=-0.299  exp=2026-12-31  appr=123%  pe=46.3
+   4. MRVL   yield= 6.88%  strike=125.0  prem=8.60  delta=-0.287  exp=2026-12-31  appr=52%  pe=46.2
+   5. TER    yield= 6.50%  strike=200.0  prem=13.00  delta=-0.295  exp=2026-12-31  appr=104%  pe=25.6
+   6. MU     yield= 6.38%  strike=590.0  prem=37.65  delta=-0.309  exp=2026-12-31  appr=564%  pe=8.7
+   7. WDC    yield= 6.32%  strike=265.0  prem=16.75  delta=-0.305  exp=2026-12-31  appr=432%  pe=10.3
+   8. DELL   yield= 5.89%  strike=285.0  prem=16.80  delta=-0.290  exp=2026-12-31  appr=156%  pe=18.4
+   9. KLAC   yield= 5.77%  strike=130.0  prem=7.50  delta=-0.324  exp=2026-12-31  appr=121%  pe=30.7
+  10. AMAT   yield= 5.76%  strike=295.0  prem=17.00  delta=-0.308  exp=2026-12-31  appr=87%  pe=25.5
+  11. AMD    yield= 5.73%  strike=385.0  prem=22.05  delta=-0.299  exp=2026-12-31  appr=209%  pe=90.7
+  12. VRT    yield= 5.73%  strike=165.0  prem=9.45  delta=-0.318  exp=2026-12-31  appr=40%  pe=33.4
+  13. LRCX   yield= 5.40%  strike=175.0  prem=9.45  delta=-0.299  exp=2026-12-31  appr=165%  pe=28.7
+  14. AVGO   yield= 5.05%  strike=290.0  prem=14.65  delta=-0.314  exp=2026-12-31  appr=96%  pe=39.9
+  15. GLW    yield= 4.79%  strike=95.0  prem=4.55  delta=-0.285  exp=2026-12-31  appr=122%  pe=42.5
+  16. HPE    yield= 4.59%  strike=39.0  prem=1.79  delta=-0.291  exp=2026-12-31  appr=111%  pe=13.9
+  17. GNRC   yield= 4.20%  strike=205.0  prem=8.60  delta=-0.319  exp=2026-12-31  appr=16%  pe=43.2
+  18. ANET   yield= 4.12%  strike=160.0  prem=6.60  delta=-0.291  exp=2026-12-31  appr=72%  pe=46.8
+  19. GEV    yield= 4.04%  strike=680.0  prem=27.50  delta=-0.294  exp=2026-12-31  appr=121%  pe=19.3
+  20. FCX    yield= 3.81%  strike=48.0  prem=1.83  delta=-0.329  exp=2026-12-31  appr=18%  pe=21.3
